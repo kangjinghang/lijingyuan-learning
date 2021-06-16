@@ -1,0 +1,5762 @@
+[
+  {
+    "symbol": "SZ002248",
+    "name": "华东数控",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505307365
+  },
+  {
+    "symbol": "SZ002615",
+    "name": "哈尔斯",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505307365
+  },
+  {
+    "symbol": "SZ300532",
+    "name": "今天国际",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505307365
+  },
+  {
+    "symbol": "SZ000596",
+    "name": "古井贡酒",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505064981
+  },
+  {
+    "symbol": "SH603501",
+    "name": "韦尔股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505054967
+  },
+  {
+    "symbol": "SH600887",
+    "name": "伊利股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505050049
+  },
+  {
+    "symbol": "SZ300677",
+    "name": "英科医疗",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505050049
+  },
+  {
+    "symbol": "SH600029",
+    "name": "南方航空",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH600132",
+    "name": "重庆啤酒",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH600406",
+    "name": "国电南瑞",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH600570",
+    "name": "恒生电子",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH600690",
+    "name": "海尔智家",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH601021",
+    "name": "春秋航空",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH601601",
+    "name": "中国太保",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH601628",
+    "name": "中国人寿",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH601658",
+    "name": "邮储银行",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH601799",
+    "name": "星宇股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH601816",
+    "name": "京沪高铁",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH601881",
+    "name": "中国银河",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH601901",
+    "name": "方正证券",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SZ002142",
+    "name": "宁波银行",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SZ002410",
+    "name": "广联达",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SZ300012",
+    "name": "华测检测",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SZ300285",
+    "name": "国瓷材料",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SZ300316",
+    "name": "晶盛机电",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SZ300498",
+    "name": "温氏股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SZ300529",
+    "name": "健帆生物",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SZ300628",
+    "name": "亿联网络",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SZ300760",
+    "name": "迈瑞医疗",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1621505038243
+  },
+  {
+    "symbol": "SH600655",
+    "name": "豫园股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621504993264
+  },
+  {
+    "symbol": "SH600702",
+    "name": "舍得酒业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1621504993264
+  },
+  {
+    "symbol": "GOTU",
+    "name": "高途",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1620307836308
+  },
+  {
+    "symbol": "SH512800",
+    "name": "银行ETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1619419648644
+  },
+  {
+    "symbol": "SZ300325",
+    "name": "*ST德威",
+    "type": 11,
+    "remark": "记录",
+    "exchange": "SZ",
+    "created": 1619330486862
+  },
+  {
+    "symbol": "BTCM",
+    "name": "比特矿业",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1619148980836
+  },
+  {
+    "symbol": "TEST",
+    "name": "Nasdaq Test Symbol",
+    "type": 6,
+    "remark": "",
+    "exchange": "OTCBB",
+    "created": 1618913680809
+  },
+  {
+    "symbol": "SH688658",
+    "name": "悦康药业",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1618455111580
+  },
+  {
+    "symbol": "SZ112682",
+    "name": "18苏宁01",
+    "type": 15,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618455046635
+  },
+  {
+    "symbol": "SH019633",
+    "name": "20国债07",
+    "type": 15,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1618455037066
+  },
+  {
+    "symbol": "SZ101606",
+    "name": "国债1606",
+    "type": 15,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618455027519
+  },
+  {
+    "symbol": "SZ123029",
+    "name": "英科转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618455020494
+  },
+  {
+    "symbol": "SH113580",
+    "name": "康隆转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1618455016758
+  },
+  {
+    "symbol": "SZ131800",
+    "name": "R-003",
+    "type": 17,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618455008508
+  },
+  {
+    "symbol": "OC836826",
+    "name": "盖世食品",
+    "type": 61,
+    "remark": "",
+    "exchange": "OC",
+    "created": 1618454999005
+  },
+  {
+    "symbol": "OC838030",
+    "name": "德众汽车",
+    "type": 61,
+    "remark": "",
+    "exchange": "OC",
+    "created": 1618454976661
+  },
+  {
+    "symbol": "OC833509",
+    "name": "同惠电子",
+    "type": 61,
+    "remark": "",
+    "exchange": "OC",
+    "created": 1618454972197
+  },
+  {
+    "symbol": "SZ160216",
+    "name": "国泰商品",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454956012
+  },
+  {
+    "symbol": "SZ163208",
+    "name": "诺安油气",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454950045
+  },
+  {
+    "symbol": "SZ160723",
+    "name": "嘉实原油",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454942107
+  },
+  {
+    "symbol": "SZ162719",
+    "name": "广发石油",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454935982
+  },
+  {
+    "symbol": "SZ161024",
+    "name": "军工",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454879311
+  },
+  {
+    "symbol": "SH502023",
+    "name": "钢铁LOF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1618454874864
+  },
+  {
+    "symbol": "SZ160127",
+    "name": "南方消费",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454867764
+  },
+  {
+    "symbol": "SH512400",
+    "name": "有色金属ETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1618454860368
+  },
+  {
+    "symbol": "SZ161903",
+    "name": "万家优选",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454853349
+  },
+  {
+    "symbol": "SH511830",
+    "name": "华泰货币ETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1618454840564
+  },
+  {
+    "symbol": "SZ161505",
+    "name": "银河通利",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454833665
+  },
+  {
+    "symbol": "SZ165311",
+    "name": "建信信用",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454828679
+  },
+  {
+    "symbol": "02020",
+    "name": "安踏体育",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1618454771680
+  },
+  {
+    "symbol": "02331",
+    "name": "李宁",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1618454747897
+  },
+  {
+    "symbol": "09988",
+    "name": "阿里巴巴-SW",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1618454737200
+  },
+  {
+    "symbol": "02318",
+    "name": "中国平安",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1618454732970
+  },
+  {
+    "symbol": "00883",
+    "name": "中国海洋石油",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1618454728454
+  },
+  {
+    "symbol": "01024",
+    "name": "快手-W",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1618454723274
+  },
+  {
+    "symbol": "03690",
+    "name": "美团-W",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1618454718692
+  },
+  {
+    "symbol": "01919",
+    "name": "中远海控",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1618454712009
+  },
+  {
+    "symbol": "VIPS",
+    "name": "唯品会",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1618454696631
+  },
+  {
+    "symbol": "TME",
+    "name": "腾讯音乐",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1618454687490
+  },
+  {
+    "symbol": "GS",
+    "name": "高盛",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1618454677947
+  },
+  {
+    "symbol": "FB",
+    "name": "Facebook",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1618454673075
+  },
+  {
+    "symbol": "WFC",
+    "name": "富国银行",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1618454664760
+  },
+  {
+    "symbol": "LI",
+    "name": "理想汽车",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1618454660056
+  },
+  {
+    "symbol": "FUTU",
+    "name": "富途控股",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1618454650533
+  },
+  {
+    "symbol": "TIGR",
+    "name": "老虎证券",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1618454640376
+  },
+  {
+    "symbol": "PSAC",
+    "name": "Property Solutions",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1618454634060
+  },
+  {
+    "symbol": "TSM",
+    "name": "台积电",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1618454624965
+  },
+  {
+    "symbol": "BIDU",
+    "name": "百度",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1618454620475
+  },
+  {
+    "symbol": "ZLAB",
+    "name": "再鼎医药",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1618454612477
+  },
+  {
+    "symbol": "CAN",
+    "name": "嘉楠科技",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1618454592100
+  },
+  {
+    "symbol": "GME",
+    "name": "游戏驿站",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1618454587251
+  },
+  {
+    "symbol": "XPEV",
+    "name": "小鹏汽车",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1618454579088
+  },
+  {
+    "symbol": "COIN",
+    "name": "Coinbase Global",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1618454569872
+  },
+  {
+    "symbol": "SZ300059",
+    "name": "东方财富",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454352047
+  },
+  {
+    "symbol": "SZ002594",
+    "name": "比亚迪",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454347432
+  },
+  {
+    "symbol": "SH601005",
+    "name": "重庆钢铁",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1618454340385
+  },
+  {
+    "symbol": "SZ002714",
+    "name": "牧原股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454324272
+  },
+  {
+    "symbol": "SZ002352",
+    "name": "顺丰控股",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454319365
+  },
+  {
+    "symbol": "SZ002762",
+    "name": "金发拉比",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454314669
+  },
+  {
+    "symbol": "SZ000963",
+    "name": "华东医药",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1618454305996
+  },
+  {
+    "symbol": "SH601888",
+    "name": "中国中免",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1618454293652
+  },
+  {
+    "symbol": "06688",
+    "name": "蚂蚁集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1616565887533
+  },
+  {
+    "symbol": "01413",
+    "name": "广联工程控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1614564352287
+  },
+  {
+    "symbol": "SH688688",
+    "name": "蚂蚁集团",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1616565887079
+  },
+  {
+    "symbol": "SZ128144",
+    "name": "利民转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1614577871415
+  },
+  {
+    "symbol": "SH688667",
+    "name": "菱电电控",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1614577857953
+  },
+  {
+    "symbol": "OSCR",
+    "name": "Oscar Health",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1614564402991
+  },
+  {
+    "symbol": "60865",
+    "name": "港交高盛一八牛B",
+    "type": 32,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1610605363455
+  },
+  {
+    "symbol": "SH601336",
+    "name": "新华保险",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1610530383714
+  },
+  {
+    "symbol": "BK1008",
+    "name": "航空航天与国防",
+    "type": 8,
+    "remark": "",
+    "exchange": "US",
+    "created": 1610530361138
+  },
+  {
+    "symbol": "BK0575",
+    "name": "MSCI概念",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1610530341527
+  },
+  {
+    "symbol": "CSI000300",
+    "name": "沪深300",
+    "type": 26,
+    "remark": "",
+    "exchange": "CSI",
+    "created": 1610530316312
+  },
+  {
+    "symbol": "SZ112316",
+    "name": "16航空债",
+    "type": 15,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1610530244156
+  },
+  {
+    "symbol": "OC834534",
+    "name": "曼恒数字",
+    "type": 61,
+    "remark": "",
+    "exchange": "OC",
+    "created": 1610530230346
+  },
+  {
+    "symbol": "HUAW",
+    "name": "华为",
+    "type": 80,
+    "remark": "",
+    "exchange": "PREIPO",
+    "created": 1610530209129
+  },
+  {
+    "symbol": "SZ162411",
+    "name": "华宝油气",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1610530188339
+  },
+  {
+    "symbol": "SZ131810",
+    "name": "R-001",
+    "type": 17,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1610530170720
+  },
+  {
+    "symbol": "SH900905",
+    "name": "老凤祥B",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1610530155584
+  },
+  {
+    "symbol": "00696",
+    "name": "中国民航信息网络",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1610530115596
+  },
+  {
+    "symbol": "TQQQ",
+    "name": "纳指3X做多-ProShares",
+    "type": 4,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1610530097274
+  },
+  {
+    "symbol": "NTDOY",
+    "name": "任天堂",
+    "type": 6,
+    "remark": "",
+    "exchange": "PINK",
+    "created": 1610530075817
+  },
+  {
+    "symbol": "SZ127005",
+    "name": "长证转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1610530028066
+  },
+  {
+    "symbol": "SH513090",
+    "name": "香港证券ETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1610530010746
+  },
+  {
+    "symbol": "PDD",
+    "name": "拼多多",
+    "type": 0,
+    "remark": "哈哈哈双色球",
+    "exchange": "NASDAQ",
+    "created": 1609400120273
+  },
+  {
+    "symbol": "ADBE",
+    "name": "Adobe",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "AIV",
+    "name": "公寓投资管理",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "AMED",
+    "name": "阿米斯医疗",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "AMZN",
+    "name": "亚马逊",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "ANGI",
+    "name": "Angi",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "ARGX",
+    "name": "argenx",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "BEKE",
+    "name": "贝壳",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "BGS",
+    "name": "B&G食品",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "BIIB",
+    "name": "Biogen制药",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "BYND",
+    "name": "Beyond Meat",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "CBOE",
+    "name": "芝加哥期权交易所",
+    "type": 4,
+    "remark": "",
+    "exchange": "BATS",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "CLOU",
+    "name": "云计算ETF-GlobalX",
+    "type": 4,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "CLX",
+    "name": "高乐氏",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "COLD",
+    "name": "Americold Realty",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "DGX",
+    "name": "奎斯特诊疗",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "DHR",
+    "name": "丹纳赫",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "DLR",
+    "name": "Digital Realty Trust",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "DPZ",
+    "name": "达美乐比萨",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "DXCM",
+    "name": "德康医疗",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "EBAY",
+    "name": "eBay",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "EXAS",
+    "name": "精密科学",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "FIVN",
+    "name": "Five9",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "FROG",
+    "name": "Jfrog",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "FTNT",
+    "name": "飞塔信息",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "GRUB",
+    "name": "GrubHub",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "HUYA",
+    "name": "虎牙",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "IBP",
+    "name": "Installed Building",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "JD",
+    "name": "京东",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "KNDI",
+    "name": "康迪车业",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "MKC",
+    "name": "味好美",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "MKTX",
+    "name": "MarketAxess",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "MPWR",
+    "name": "芯源系统",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "NEWR",
+    "name": "New Relic",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "NLOK",
+    "name": "NortonLifeLock",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "NLS",
+    "name": "鹦鹉螺体育",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "NOK",
+    "name": "诺基亚",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "NOMD",
+    "name": "Nomad Foods",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "OKTA",
+    "name": "Okta",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "OMI",
+    "name": "欧麦斯-麦能医疗",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "PFPT",
+    "name": "Proofpoint",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "PRPL",
+    "name": "紫色创新",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "RNG",
+    "name": "RingCentral",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "SAIL",
+    "name": "Sailpoint科技",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "SBAC",
+    "name": "SBA通信",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "SMAR",
+    "name": "Smartsheet",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "SNOW",
+    "name": "Snowflake",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "SPLK",
+    "name": "Splunk",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "TEAM",
+    "name": "Atlassian",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "TENB",
+    "name": "Tenable Holdings",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "TMO",
+    "name": "赛默飞世尔科技",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "TNDM",
+    "name": "糖尿病保健",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "TREX",
+    "name": "Trex木业",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "TROW",
+    "name": "普信集团",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "TSCO",
+    "name": "牵引机供销",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "TWTR",
+    "name": "Twitter",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "VEEV",
+    "name": "Veeva Systems",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "W",
+    "name": "Wayfair",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "WEN",
+    "name": "温蒂汉堡",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "ZI",
+    "name": "ZoomInfo",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1605171602722
+  },
+  {
+    "symbol": "TSLA",
+    "name": "特斯拉",
+    "type": 0,
+    "remark": "备注一下",
+    "exchange": "NASDAQ",
+    "created": 1603362370847
+  },
+  {
+    "symbol": "SH600436",
+    "name": "片仔癀",
+    "type": 11,
+    "remark": "备注一下",
+    "exchange": "SH",
+    "created": 1603361688613
+  },
+  {
+    "symbol": "SZ002980",
+    "name": "华盛昌",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1603351279530
+  },
+  {
+    "symbol": "SH600498",
+    "name": "烽火通信",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1603351279507
+  },
+  {
+    "symbol": "SZ002415",
+    "name": "海康威视",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1603351279413
+  },
+  {
+    "symbol": "SZ002032",
+    "name": "苏泊尔",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1603351279343
+  },
+  {
+    "symbol": "SZ399996",
+    "name": "智能家居",
+    "type": 12,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1603351279271
+  },
+  {
+    "symbol": "SH515520",
+    "name": "MSCI价值100ETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1603277993801
+  },
+  {
+    "symbol": "03606",
+    "name": "福耀玻璃",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394305094
+  },
+  {
+    "symbol": "SZ002163",
+    "name": "海南发展",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307976
+  },
+  {
+    "symbol": "SH600588",
+    "name": "用友网络",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307953
+  },
+  {
+    "symbol": "SH603669",
+    "name": "灵康药业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307934
+  },
+  {
+    "symbol": "SZ184728",
+    "name": "基金鸿阳",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307909
+  },
+  {
+    "symbol": "SZ160916",
+    "name": "优选LOF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307887
+  },
+  {
+    "symbol": "SH110030",
+    "name": "格力转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307868
+  },
+  {
+    "symbol": "SH600444",
+    "name": "国机通用",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307848
+  },
+  {
+    "symbol": "SZ002635",
+    "name": "安洁科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307824
+  },
+  {
+    "symbol": "SZ000816",
+    "name": "智慧农业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307805
+  },
+  {
+    "symbol": "SH600585",
+    "name": "海螺水泥",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307783
+  },
+  {
+    "symbol": "SH600674",
+    "name": "川投能源",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307764
+  },
+  {
+    "symbol": "SH600881",
+    "name": "亚泰集团",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307746
+  },
+  {
+    "symbol": "SZ200418",
+    "name": "小天鹅B",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307718
+  },
+  {
+    "symbol": "SZ002029",
+    "name": "七匹狼",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307700
+  },
+  {
+    "symbol": "SZ300601",
+    "name": "康泰生物",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307681
+  },
+  {
+    "symbol": "SH600789",
+    "name": "鲁抗医药",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307656
+  },
+  {
+    "symbol": "SH601117",
+    "name": "中国化学",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307636
+  },
+  {
+    "symbol": "SH600300",
+    "name": "ST维维",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307617
+  },
+  {
+    "symbol": "SH000300",
+    "name": "沪深300",
+    "type": 12,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307579
+  },
+  {
+    "symbol": "SZ002169",
+    "name": "智光电气",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307559
+  },
+  {
+    "symbol": "SZ150172",
+    "name": "证券B",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307510
+  },
+  {
+    "symbol": "03968",
+    "name": "招商银行",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394305076
+  },
+  {
+    "symbol": "SZ002938",
+    "name": "鹏鼎控股",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307461
+  },
+  {
+    "symbol": "SZ002089",
+    "name": "ST新海",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307442
+  },
+  {
+    "symbol": "SZ002338",
+    "name": "奥普光电",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307423
+  },
+  {
+    "symbol": "SZ300173",
+    "name": "福能东方",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307384
+  },
+  {
+    "symbol": "SH603969",
+    "name": "银龙股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307341
+  },
+  {
+    "symbol": "SH603515",
+    "name": "欧普照明",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307322
+  },
+  {
+    "symbol": "SZ000760",
+    "name": "*ST斯太",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307302
+  },
+  {
+    "symbol": "00073",
+    "name": "亚洲果业",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600418965653
+  },
+  {
+    "symbol": "SZ300072",
+    "name": "三聚环保",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307264
+  },
+  {
+    "symbol": "SH204182",
+    "name": "GC182",
+    "type": 17,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307245
+  },
+  {
+    "symbol": "SH601166",
+    "name": "兴业银行",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307226
+  },
+  {
+    "symbol": "SH600307",
+    "name": "酒钢宏兴",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307207
+  },
+  {
+    "symbol": "SH511900",
+    "name": "富国货币ETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307188
+  },
+  {
+    "symbol": "SZ000612",
+    "name": "焦作万方",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307170
+  },
+  {
+    "symbol": "SH600460",
+    "name": "士兰微",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307152
+  },
+  {
+    "symbol": "SH600614",
+    "name": "*ST鹏起",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307130
+  },
+  {
+    "symbol": "SZ002610",
+    "name": "爱康科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394307110
+  },
+  {
+    "symbol": "SH600050",
+    "name": "中国联通",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394307087
+  },
+  {
+    "symbol": "WEI",
+    "name": "微贷网",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394307067
+  },
+  {
+    "symbol": "00007",
+    "name": "香港金融集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394307485
+  },
+  {
+    "symbol": "SH600035",
+    "name": "楚天高速",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306994
+  },
+  {
+    "symbol": "SH600803",
+    "name": "新奥股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306976
+  },
+  {
+    "symbol": "SH600190",
+    "name": "锦州港",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306957
+  },
+  {
+    "symbol": "SZ128038",
+    "name": "利欧转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306938
+  },
+  {
+    "symbol": "SH600666",
+    "name": "ST瑞德",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306918
+  },
+  {
+    "symbol": "01548",
+    "name": "金斯瑞生物科技",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394307282
+  },
+  {
+    "symbol": "SZ127011",
+    "name": "中鼎转2",
+    "type": 14,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306872
+  },
+  {
+    "symbol": "SZ000070",
+    "name": "特发信息",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306854
+  },
+  {
+    "symbol": "SH600175",
+    "name": "退市美都",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306837
+  },
+  {
+    "symbol": "SZ002933",
+    "name": "新兴装备",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306819
+  },
+  {
+    "symbol": "QCOM",
+    "name": "高通",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394306801
+  },
+  {
+    "symbol": "SH113533",
+    "name": "参林转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306748
+  },
+  {
+    "symbol": "01105",
+    "name": "星岛",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394307042
+  },
+  {
+    "symbol": "SZ300487",
+    "name": "蓝晓科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306711
+  },
+  {
+    "symbol": "SH601169",
+    "name": "北京银行",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306690
+  },
+  {
+    "symbol": "SZ002555",
+    "name": "三七互娱",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306671
+  },
+  {
+    "symbol": "00223",
+    "name": "易生活控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394306900
+  },
+  {
+    "symbol": "06889",
+    "name": "DYNAM JAPAN",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394306730
+  },
+  {
+    "symbol": "SH600196",
+    "name": "复星医药",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306615
+  },
+  {
+    "symbol": "SZ128052",
+    "name": "凯龙转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306595
+  },
+  {
+    "symbol": "SZ002783",
+    "name": "凯龙股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306576
+  },
+  {
+    "symbol": "SZ002157",
+    "name": "正邦科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306558
+  },
+  {
+    "symbol": "SH600682",
+    "name": "南京新百",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306542
+  },
+  {
+    "symbol": "SZ300052",
+    "name": "中青宝",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306523
+  },
+  {
+    "symbol": "SH600796",
+    "name": "钱江生化",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306505
+  },
+  {
+    "symbol": "SH600597",
+    "name": "XD光明乳",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306487
+  },
+  {
+    "symbol": "00799",
+    "name": "IGG",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394306652
+  },
+  {
+    "symbol": "SH600239",
+    "name": "*ST云城",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306446
+  },
+  {
+    "symbol": "SZ300161",
+    "name": "华中数控",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306428
+  },
+  {
+    "symbol": "F",
+    "name": "福特汽车",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394306409
+  },
+  {
+    "symbol": "SZ127010",
+    "name": "平银转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306392
+  },
+  {
+    "symbol": "SH600884",
+    "name": "杉杉股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306372
+  },
+  {
+    "symbol": "CBS",
+    "name": "哥伦比亚广播公司",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394306355
+  },
+  {
+    "symbol": "SZ002715",
+    "name": "登云股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306337
+  },
+  {
+    "symbol": "SH600439",
+    "name": "瑞贝卡",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306316
+  },
+  {
+    "symbol": "SZ000723",
+    "name": "美锦能源",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306297
+  },
+  {
+    "symbol": "SZ300298",
+    "name": "三诺生物",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306279
+  },
+  {
+    "symbol": "SZ002711",
+    "name": "*ST欧浦",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306256
+  },
+  {
+    "symbol": "SZ150052",
+    "name": "沪深300B",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306239
+  },
+  {
+    "symbol": "SH501037",
+    "name": "中证500LOFC",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306215
+  },
+  {
+    "symbol": "SZ000766",
+    "name": "通化金马",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306194
+  },
+  {
+    "symbol": "SH600218",
+    "name": "全柴动力",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306174
+  },
+  {
+    "symbol": "SZ150106",
+    "name": "中小A",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306142
+  },
+  {
+    "symbol": "SH600645",
+    "name": "中源协和",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306124
+  },
+  {
+    "symbol": "SH600172",
+    "name": "黄河旋风",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306101
+  },
+  {
+    "symbol": "SZ002472",
+    "name": "双环传动",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394306080
+  },
+  {
+    "symbol": "SH600271",
+    "name": "航天信息",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394306061
+  },
+  {
+    "symbol": "07336",
+    "name": "FIGX恒指",
+    "type": 33,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394306634
+  },
+  {
+    "symbol": "SZ002821",
+    "name": "凯莱英",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305992
+  },
+  {
+    "symbol": "SZ002271",
+    "name": "东方雨虹",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305923
+  },
+  {
+    "symbol": "SZ000681",
+    "name": "视觉中国",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305905
+  },
+  {
+    "symbol": "SH600446",
+    "name": "金证股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305886
+  },
+  {
+    "symbol": "SZ131803",
+    "name": "R-028",
+    "type": 17,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305869
+  },
+  {
+    "symbol": "SH127147",
+    "name": "PR15郫国",
+    "type": 15,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305850
+  },
+  {
+    "symbol": "SZ118868",
+    "name": "16袍工03",
+    "type": 15,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305833
+  },
+  {
+    "symbol": "07200",
+    "name": "FL 二南方恒指",
+    "type": 33,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394306465
+  },
+  {
+    "symbol": "SZ150210",
+    "name": "国企改B",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305784
+  },
+  {
+    "symbol": "SZ002321",
+    "name": "*ST华英",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305767
+  },
+  {
+    "symbol": "SZ200725",
+    "name": "京东方B",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305742
+  },
+  {
+    "symbol": "01610",
+    "name": "中粮家佳康",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394306014
+  },
+  {
+    "symbol": "SH601588",
+    "name": "北辰实业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305701
+  },
+  {
+    "symbol": "SH600557",
+    "name": "康缘药业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305684
+  },
+  {
+    "symbol": "SZ002002",
+    "name": "鸿达兴业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305666
+  },
+  {
+    "symbol": "06839",
+    "name": "云南水务",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394305815
+  },
+  {
+    "symbol": "SZ300037",
+    "name": "新宙邦",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305612
+  },
+  {
+    "symbol": "SZ300146",
+    "name": "汤臣倍健",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305596
+  },
+  {
+    "symbol": "SH600233",
+    "name": "圆通速递",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305578
+  },
+  {
+    "symbol": "SZ300573",
+    "name": "兴齐眼药",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305544
+  },
+  {
+    "symbol": "SZ300207",
+    "name": "欣旺达",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305523
+  },
+  {
+    "symbol": "SH603056",
+    "name": "德邦股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305505
+  },
+  {
+    "symbol": "00588",
+    "name": "北京北辰实业股份",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394305723
+  },
+  {
+    "symbol": "JMIA",
+    "name": "Jumia Technologie",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394305452
+  },
+  {
+    "symbol": "INTC",
+    "name": "英特尔",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394305435
+  },
+  {
+    "symbol": "SZ002466",
+    "name": "天齐锂业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305414
+  },
+  {
+    "symbol": "SH603267",
+    "name": "鸿远电子",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305395
+  },
+  {
+    "symbol": "SZ000622",
+    "name": "恒立实业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305379
+  },
+  {
+    "symbol": "SZ300003",
+    "name": "乐普医疗",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305362
+  },
+  {
+    "symbol": "SH600315",
+    "name": "上海家化",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305344
+  },
+  {
+    "symbol": "SZ300735",
+    "name": "光弘科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305327
+  },
+  {
+    "symbol": "SZ002515",
+    "name": "金字火腿",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305307
+  },
+  {
+    "symbol": "SZ000563",
+    "name": "陕国投A",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305290
+  },
+  {
+    "symbol": "SZ002262",
+    "name": "恩华药业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305274
+  },
+  {
+    "symbol": "SZ000009",
+    "name": "中国宝安",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305258
+  },
+  {
+    "symbol": "JPM",
+    "name": "摩根大通",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394305241
+  },
+  {
+    "symbol": "SZ300131",
+    "name": "英唐智控",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305223
+  },
+  {
+    "symbol": "SZ000423",
+    "name": "东阿阿胶",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305206
+  },
+  {
+    "symbol": "SH601008",
+    "name": "连云港",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305189
+  },
+  {
+    "symbol": "SZ000650",
+    "name": "仁和药业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305145
+  },
+  {
+    "symbol": "SZ002668",
+    "name": "奥马电器",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394305128
+  },
+  {
+    "symbol": "00598",
+    "name": "中国外运",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394305630
+  },
+  {
+    "symbol": "00392",
+    "name": "北京控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394305472
+  },
+  {
+    "symbol": "00177",
+    "name": "江苏宁沪高速公路",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394305111
+  },
+  {
+    "symbol": "00285",
+    "name": "比亚迪电子",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394305060
+  },
+  {
+    "symbol": "02038",
+    "name": "富智康集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394305044
+  },
+  {
+    "symbol": "SH603589",
+    "name": "口子窖",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305027
+  },
+  {
+    "symbol": "SH600775",
+    "name": "南京熊猫",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394305010
+  },
+  {
+    "symbol": "SZ000333",
+    "name": "美的集团",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394304994
+  },
+  {
+    "symbol": "SZ002222",
+    "name": "福晶科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394304978
+  },
+  {
+    "symbol": "TX",
+    "name": "特尔尼翁钢铁",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394304961
+  },
+  {
+    "symbol": "MCD",
+    "name": "麦当劳",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394304945
+  },
+  {
+    "symbol": "06030",
+    "name": "中信证券",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304928
+  },
+  {
+    "symbol": "SZ002481",
+    "name": "双塔食品",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394304912
+  },
+  {
+    "symbol": "01025",
+    "name": "嘉艺控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304896
+  },
+  {
+    "symbol": "00724",
+    "name": "瑞鑫国际集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304880
+  },
+  {
+    "symbol": "00426",
+    "name": "万华媒体",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304863
+  },
+  {
+    "symbol": "V",
+    "name": "VISA",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394304847
+  },
+  {
+    "symbol": "SH603283",
+    "name": "赛腾股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394304808
+  },
+  {
+    "symbol": "01281",
+    "name": "隆基泰和智慧能源",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304791
+  },
+  {
+    "symbol": "00088",
+    "name": "大昌集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304774
+  },
+  {
+    "symbol": "01055",
+    "name": "中国南方航空股份",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304756
+  },
+  {
+    "symbol": "SZ300700",
+    "name": "岱勒新材",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394304740
+  },
+  {
+    "symbol": "SZ300070",
+    "name": "碧水源",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394304724
+  },
+  {
+    "symbol": "SH600007",
+    "name": "中国国贸",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394304705
+  },
+  {
+    "symbol": "00090",
+    "name": "普星能量",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304688
+  },
+  {
+    "symbol": "SH600070",
+    "name": "浙江富润",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394304670
+  },
+  {
+    "symbol": "SZ000007",
+    "name": "*ST全新",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394304654
+  },
+  {
+    "symbol": "SH600058",
+    "name": "五矿发展",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394304637
+  },
+  {
+    "symbol": "00055",
+    "name": "中星集团控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304621
+  },
+  {
+    "symbol": "RACE",
+    "name": "法拉利",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394304605
+  },
+  {
+    "symbol": "00070",
+    "name": "金粤控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304581
+  },
+  {
+    "symbol": "SZ000008",
+    "name": "神州高铁",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394304563
+  },
+  {
+    "symbol": "SH512510",
+    "name": "华泰中证500ETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394304547
+  },
+  {
+    "symbol": "SH600466",
+    "name": "蓝光发展",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394304521
+  },
+  {
+    "symbol": "NVDA",
+    "name": "英伟达",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394304503
+  },
+  {
+    "symbol": "SH600109",
+    "name": "国金证券",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394304465
+  },
+  {
+    "symbol": "LFC",
+    "name": "中国人寿",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394304448
+  },
+  {
+    "symbol": "LMT",
+    "name": "洛克希德-马丁",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394304431
+  },
+  {
+    "symbol": "01988",
+    "name": "民生银行",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304415
+  },
+  {
+    "symbol": "06818",
+    "name": "中国光大银行",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304397
+  },
+  {
+    "symbol": "03888",
+    "name": "金山软件",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304353
+  },
+  {
+    "symbol": "52782",
+    "name": "港交高盛一八牛G",
+    "type": 32,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304331
+  },
+  {
+    "symbol": "SH000128",
+    "name": "380基本",
+    "type": 12,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394304314
+  },
+  {
+    "symbol": "08370",
+    "name": "智昇集团控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304297
+  },
+  {
+    "symbol": "FFHL",
+    "name": "富维薄膜",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394304280
+  },
+  {
+    "symbol": "AMD",
+    "name": "ADV MICRO DEVICE",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394304262
+  },
+  {
+    "symbol": "02196",
+    "name": "复星医药",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304246
+  },
+  {
+    "symbol": "XNET",
+    "name": "迅雷",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394304230
+  },
+  {
+    "symbol": "00788",
+    "name": "中国铁塔",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304215
+  },
+  {
+    "symbol": "BBY",
+    "name": "百思买",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394304173
+  },
+  {
+    "symbol": "06837",
+    "name": "海通证券",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304156
+  },
+  {
+    "symbol": "ATHM",
+    "name": "汽车之家",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394304140
+  },
+  {
+    "symbol": "SH600199",
+    "name": "金种子酒",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394304124
+  },
+  {
+    "symbol": "GPRO",
+    "name": "GoPro",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394304107
+  },
+  {
+    "symbol": "CHL",
+    "name": "中国移动",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394304091
+  },
+  {
+    "symbol": "02007",
+    "name": "碧桂园",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304074
+  },
+  {
+    "symbol": "00656",
+    "name": "复星国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304045
+  },
+  {
+    "symbol": "00076",
+    "name": "谊砾控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394304028
+  },
+  {
+    "symbol": "SZ002806",
+    "name": "华锋股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394304013
+  },
+  {
+    "symbol": "DIS",
+    "name": "迪士尼",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394303986
+  },
+  {
+    "symbol": "SZ002962",
+    "name": "五方光电",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303971
+  },
+  {
+    "symbol": "SZ300793",
+    "name": "佳禾智能",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303956
+  },
+  {
+    "symbol": "SZ123031",
+    "name": "晶瑞转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303941
+  },
+  {
+    "symbol": "FIT",
+    "name": "Fitbit",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394303926
+  },
+  {
+    "symbol": "SH600868",
+    "name": "梅雁吉祥",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303911
+  },
+  {
+    "symbol": "SZ002424",
+    "name": "贵州百灵",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303896
+  },
+  {
+    "symbol": "SH515050",
+    "name": "5GETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303881
+  },
+  {
+    "symbol": "TCOM",
+    "name": "携程集团",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394303865
+  },
+  {
+    "symbol": "SZ002304",
+    "name": "洋河股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303851
+  },
+  {
+    "symbol": "SH600006",
+    "name": "东风汽车",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303836
+  },
+  {
+    "symbol": "SH600548",
+    "name": "深高速",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303819
+  },
+  {
+    "symbol": "SZ002681",
+    "name": "奋达科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303804
+  },
+  {
+    "symbol": "SH600008",
+    "name": "首创股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303789
+  },
+  {
+    "symbol": "SH600352",
+    "name": "浙江龙盛",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303774
+  },
+  {
+    "symbol": "SZ002502",
+    "name": "*ST鼎龙",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303760
+  },
+  {
+    "symbol": "01787",
+    "name": "山东黄金",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303745
+  },
+  {
+    "symbol": "SZ002230",
+    "name": "科大讯飞",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303729
+  },
+  {
+    "symbol": "M",
+    "name": "梅西百货",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394303715
+  },
+  {
+    "symbol": "SZ002447",
+    "name": "*ST晨鑫",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303700
+  },
+  {
+    "symbol": "NKE",
+    "name": "耐克",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394303678
+  },
+  {
+    "symbol": "UL",
+    "name": "联合利华(英国)",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394303663
+  },
+  {
+    "symbol": "UN",
+    "name": "联合利华(荷兰)",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394303647
+  },
+  {
+    "symbol": "PG",
+    "name": "宝洁",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394303633
+  },
+  {
+    "symbol": "SH900932",
+    "name": "陆家B股",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303619
+  },
+  {
+    "symbol": "SH600809",
+    "name": "山西汾酒",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303604
+  },
+  {
+    "symbol": "SH600547",
+    "name": "山东黄金",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303583
+  },
+  {
+    "symbol": "SZ000923",
+    "name": "河钢资源",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303569
+  },
+  {
+    "symbol": "00059",
+    "name": "天誉置业",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303553
+  },
+  {
+    "symbol": "SZ300802",
+    "name": "矩子科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303514
+  },
+  {
+    "symbol": "SH110059",
+    "name": "浦发转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303499
+  },
+  {
+    "symbol": "TWmain",
+    "name": "MSCI台指主连",
+    "type": 50,
+    "remark": "",
+    "exchange": "SGX",
+    "created": 1600394303484
+  },
+  {
+    "symbol": "01458",
+    "name": "周黑鸭",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303469
+  },
+  {
+    "symbol": "SZ002256",
+    "name": "*ST兆新",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303455
+  },
+  {
+    "symbol": "SZ002640",
+    "name": "*ST跨境",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303424
+  },
+  {
+    "symbol": "SZ002247",
+    "name": "*ST聚力",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303409
+  },
+  {
+    "symbol": "SH600223",
+    "name": "鲁商发展",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303394
+  },
+  {
+    "symbol": "SZ000809",
+    "name": "铁岭新城",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303380
+  },
+  {
+    "symbol": "01398",
+    "name": "工商银行",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303366
+  },
+  {
+    "symbol": "01425",
+    "name": "捷隆控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303351
+  },
+  {
+    "symbol": "00867",
+    "name": "康哲药业",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303336
+  },
+  {
+    "symbol": "08475",
+    "name": "千盛集团控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303321
+  },
+  {
+    "symbol": "SZ000006",
+    "name": "深振业A",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303308
+  },
+  {
+    "symbol": "SZ300798",
+    "name": "锦鸡股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303291
+  },
+  {
+    "symbol": "SH600847",
+    "name": "万里股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303276
+  },
+  {
+    "symbol": "01593",
+    "name": "辰林教育",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303262
+  },
+  {
+    "symbol": "OC899002",
+    "name": "三板做市",
+    "type": 60,
+    "remark": "",
+    "exchange": "OC",
+    "created": 1600394303247
+  },
+  {
+    "symbol": "SZ000426",
+    "name": "兴业矿业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303227
+  },
+  {
+    "symbol": "00035",
+    "name": "远东发展",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303212
+  },
+  {
+    "symbol": "SH600105",
+    "name": "永鼎股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303198
+  },
+  {
+    "symbol": "SH113549",
+    "name": "白电转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303162
+  },
+  {
+    "symbol": "GOOS",
+    "name": "加拿大鹅",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394303133
+  },
+  {
+    "symbol": "SH900911",
+    "name": "金桥B股",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303119
+  },
+  {
+    "symbol": "02120",
+    "name": "康宁医院",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303105
+  },
+  {
+    "symbol": "00287",
+    "name": "永发置业",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303091
+  },
+  {
+    "symbol": "00158",
+    "name": "万邦投资",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303078
+  },
+  {
+    "symbol": "00026",
+    "name": "中华汽车",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303064
+  },
+  {
+    "symbol": "SH900928",
+    "name": "临港B股",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303050
+  },
+  {
+    "symbol": "SH900912",
+    "name": "外高B股",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394303037
+  },
+  {
+    "symbol": "SZ000673",
+    "name": "*ST当代",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394303022
+  },
+  {
+    "symbol": "00651",
+    "name": "中海重工",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394303008
+  },
+  {
+    "symbol": "SH113550",
+    "name": "常汽转债",
+    "type": 14,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302994
+  },
+  {
+    "symbol": "SH600695",
+    "name": "*ST绿庭",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302979
+  },
+  {
+    "symbol": "SZ162416",
+    "name": "香港本地",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302965
+  },
+  {
+    "symbol": "CSI000001",
+    "name": "上证指数",
+    "type": 26,
+    "remark": "",
+    "exchange": "CSI",
+    "created": 1600394302950
+  },
+  {
+    "symbol": "00647",
+    "name": "JOYCE BOUTIQUE",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302937
+  },
+  {
+    "symbol": "01280",
+    "name": "奇点国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302914
+  },
+  {
+    "symbol": "00365",
+    "name": "芯成科技",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302896
+  },
+  {
+    "symbol": "08022",
+    "name": "永耀集团控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302879
+  },
+  {
+    "symbol": "00482",
+    "name": "圣马丁国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302862
+  },
+  {
+    "symbol": "00676",
+    "name": "创信国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302848
+  },
+  {
+    "symbol": "08501",
+    "name": "庄皇集团公司",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302831
+  },
+  {
+    "symbol": "08029",
+    "name": "太阳国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302803
+  },
+  {
+    "symbol": "08187",
+    "name": "积木集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302787
+  },
+  {
+    "symbol": "01710",
+    "name": "致丰工业电子",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302771
+  },
+  {
+    "symbol": "01210",
+    "name": "克莉丝汀",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302759
+  },
+  {
+    "symbol": "00224",
+    "name": "建生国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302743
+  },
+  {
+    "symbol": "00979",
+    "name": "绿色能源科技集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302729
+  },
+  {
+    "symbol": "01393",
+    "name": "恒鼎实业",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302713
+  },
+  {
+    "symbol": "08109",
+    "name": "麒麟集团控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302699
+  },
+  {
+    "symbol": "02226",
+    "name": "老恒和酿造",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302675
+  },
+  {
+    "symbol": "08041",
+    "name": "荟萃国际(控股)",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302662
+  },
+  {
+    "symbol": "00094",
+    "name": "绿心集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302649
+  },
+  {
+    "symbol": "08420",
+    "name": "NEXION TECH",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302637
+  },
+  {
+    "symbol": "03680",
+    "name": "索信达控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302622
+  },
+  {
+    "symbol": "03313",
+    "name": "雅高控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302608
+  },
+  {
+    "symbol": "01749",
+    "name": "杉杉品牌",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302562
+  },
+  {
+    "symbol": "08089",
+    "name": "华人策略控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302544
+  },
+  {
+    "symbol": "SZ002079",
+    "name": "苏州固锝",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302531
+  },
+  {
+    "symbol": "SH603093",
+    "name": "南华期货",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302519
+  },
+  {
+    "symbol": "SZ300782",
+    "name": "卓胜微",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302503
+  },
+  {
+    "symbol": "SZ002961",
+    "name": "瑞达期货",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302491
+  },
+  {
+    "symbol": "SH600707",
+    "name": "彩虹股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302478
+  },
+  {
+    "symbol": "SZ300303",
+    "name": "聚飞光电",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302465
+  },
+  {
+    "symbol": "SH603053",
+    "name": "成都燃气",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302450
+  },
+  {
+    "symbol": "60066",
+    "name": "京东瑞银一十牛C",
+    "type": 32,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302438
+  },
+  {
+    "symbol": "SZ000869",
+    "name": "张裕A",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302423
+  },
+  {
+    "symbol": "SH688009",
+    "name": "中国通号",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302408
+  },
+  {
+    "symbol": "SZ002970",
+    "name": "锐明技术",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302396
+  },
+  {
+    "symbol": "SZ300676",
+    "name": "华大基因",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302381
+  },
+  {
+    "symbol": "SZ000685",
+    "name": "中山公用",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302358
+  },
+  {
+    "symbol": "SZ002024",
+    "name": "苏宁易购",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302335
+  },
+  {
+    "symbol": "SZ300002",
+    "name": "神州泰岳",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302322
+  },
+  {
+    "symbol": "02628",
+    "name": "中国人寿",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302309
+  },
+  {
+    "symbol": "SH601512",
+    "name": "中新集团",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302292
+  },
+  {
+    "symbol": "03662",
+    "name": "奥园健康",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302278
+  },
+  {
+    "symbol": "00005",
+    "name": "汇丰控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302260
+  },
+  {
+    "symbol": "02800",
+    "name": "盈富基金",
+    "type": 33,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302248
+  },
+  {
+    "symbol": "00698",
+    "name": "通达集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302235
+  },
+  {
+    "symbol": "SZ150238",
+    "name": "环保B级",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302222
+  },
+  {
+    "symbol": "KO",
+    "name": "可口可乐",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394302207
+  },
+  {
+    "symbol": "LAIX",
+    "name": "流利说",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394302195
+  },
+  {
+    "symbol": "SZ300810",
+    "name": "中科海讯",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302168
+  },
+  {
+    "symbol": "00145",
+    "name": "信能低碳",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302149
+  },
+  {
+    "symbol": "08255",
+    "name": "神州数字",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394302136
+  },
+  {
+    "symbol": "OC899001",
+    "name": "三板成指",
+    "type": 60,
+    "remark": "",
+    "exchange": "OC",
+    "created": 1600394302104
+  },
+  {
+    "symbol": "SH000011",
+    "name": "基金指数",
+    "type": 12,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302090
+  },
+  {
+    "symbol": "SZ399103",
+    "name": "乐富指数",
+    "type": 12,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302070
+  },
+  {
+    "symbol": "SZ399306",
+    "name": "深证ETF",
+    "type": 12,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302055
+  },
+  {
+    "symbol": "SH513600",
+    "name": "恒生指数ETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302042
+  },
+  {
+    "symbol": "SZ159920",
+    "name": "恒生ETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394302026
+  },
+  {
+    "symbol": "SH510210",
+    "name": "上证指数ETF",
+    "type": 13,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302014
+  },
+  {
+    "symbol": "SH000016",
+    "name": "上证50",
+    "type": 12,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394302001
+  },
+  {
+    "symbol": "SZ000151",
+    "name": "中成股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301990
+  },
+  {
+    "symbol": "01782",
+    "name": "飞思达科技",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301975
+  },
+  {
+    "symbol": "SZ300600",
+    "name": "国瑞科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301964
+  },
+  {
+    "symbol": "01218",
+    "name": "永义国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301952
+  },
+  {
+    "symbol": "00854",
+    "name": "威雅利",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301940
+  },
+  {
+    "symbol": "08259",
+    "name": "HON CORP",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301928
+  },
+  {
+    "symbol": "BK0064",
+    "name": "传媒",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394301915
+  },
+  {
+    "symbol": "SZ002239",
+    "name": "奥特佳",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301903
+  },
+  {
+    "symbol": "00772",
+    "name": "阅文集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301891
+  },
+  {
+    "symbol": "SZ000005",
+    "name": "ST星源",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301878
+  },
+  {
+    "symbol": "SZ002103",
+    "name": "广博股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301866
+  },
+  {
+    "symbol": "SZ002385",
+    "name": "大北农",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301855
+  },
+  {
+    "symbol": "SZ002460",
+    "name": "赣锋锂业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301842
+  },
+  {
+    "symbol": "SH688039",
+    "name": "当虹科技",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394301830
+  },
+  {
+    "symbol": "MSFT",
+    "name": "微软",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394301819
+  },
+  {
+    "symbol": "01255",
+    "name": "TATA健康",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301807
+  },
+  {
+    "symbol": "01788",
+    "name": "国泰君安国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301549
+  },
+  {
+    "symbol": "06860",
+    "name": "指尖悦动",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301536
+  },
+  {
+    "symbol": "HSImain",
+    "name": "恒生指数主连",
+    "type": 50,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301523
+  },
+  {
+    "symbol": "SH600327",
+    "name": "大东方",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394301511
+  },
+  {
+    "symbol": "02333",
+    "name": "长城汽车",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301498
+  },
+  {
+    "symbol": "09922",
+    "name": "九毛九",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301444
+  },
+  {
+    "symbol": "01872",
+    "name": "冠轈控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301432
+  },
+  {
+    "symbol": "SZ000626",
+    "name": "远大控股",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301419
+  },
+  {
+    "symbol": "08351",
+    "name": "俊文宝石",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301407
+  },
+  {
+    "symbol": "00169",
+    "name": "万达酒店发展",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301396
+  },
+  {
+    "symbol": "00914",
+    "name": "海螺水泥",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301375
+  },
+  {
+    "symbol": "00301",
+    "name": "三和精化",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301331
+  },
+  {
+    "symbol": "SZ300812",
+    "name": "易天股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301320
+  },
+  {
+    "symbol": "BK0472",
+    "name": "沪股通",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394301302
+  },
+  {
+    "symbol": "01292",
+    "name": "长安民生物流",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301290
+  },
+  {
+    "symbol": "00379",
+    "name": "恒嘉融资租赁",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301269
+  },
+  {
+    "symbol": "SZ002684",
+    "name": "*ST猛狮",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301251
+  },
+  {
+    "symbol": "00077",
+    "name": "进智公共交通",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394301238
+  },
+  {
+    "symbol": "BK0041",
+    "name": "中药",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394301224
+  },
+  {
+    "symbol": "BK0414",
+    "name": "云计算",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394301212
+  },
+  {
+    "symbol": "BK0467",
+    "name": "禽流感",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394301187
+  },
+  {
+    "symbol": "SZ300063",
+    "name": "天龙集团",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301174
+  },
+  {
+    "symbol": "SZ000725",
+    "name": "京东方A",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301161
+  },
+  {
+    "symbol": "SZ000636",
+    "name": "风华高科",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301146
+  },
+  {
+    "symbol": "SH601933",
+    "name": "永辉超市",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394301135
+  },
+  {
+    "symbol": "OC835185",
+    "name": "XD贝特瑞",
+    "type": 61,
+    "remark": "",
+    "exchange": "OC",
+    "created": 1600394301102
+  },
+  {
+    "symbol": "SZ161121",
+    "name": "银行",
+    "type": 13,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394301076
+  },
+  {
+    "symbol": "BIF",
+    "name": "Boulder Growth & Income Fund",
+    "type": 4,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394301064
+  },
+  {
+    "symbol": "SH603533",
+    "name": "掌阅科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394301047
+  },
+  {
+    "symbol": "SH600520",
+    "name": "文一科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394301032
+  },
+  {
+    "symbol": "SH603050",
+    "name": "科林电气",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394301017
+  },
+  {
+    "symbol": "BK0598",
+    "name": "无人零售",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394301004
+  },
+  {
+    "symbol": "BK0688",
+    "name": "光刻胶",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394300993
+  },
+  {
+    "symbol": "SH603956",
+    "name": "威派格",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300964
+  },
+  {
+    "symbol": "SH603815",
+    "name": "交建股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300954
+  },
+  {
+    "symbol": "SH603617",
+    "name": "君禾股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300941
+  },
+  {
+    "symbol": "SH603316",
+    "name": "诚邦股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300930
+  },
+  {
+    "symbol": "SH603655",
+    "name": "朗博科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300919
+  },
+  {
+    "symbol": "02804",
+    "name": "PP越南",
+    "type": 33,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300908
+  },
+  {
+    "symbol": "SH600280",
+    "name": "中央商场",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300897
+  },
+  {
+    "symbol": "IRSB",
+    "name": "IRIS BIOTECHNOLOGI",
+    "type": 6,
+    "remark": "",
+    "exchange": "PINK",
+    "created": 1600394300880
+  },
+  {
+    "symbol": "VXST",
+    "name": "恐慌指数(9天)",
+    "type": 0,
+    "remark": "",
+    "exchange": "INDEXCBOE",
+    "created": 1600394300869
+  },
+  {
+    "symbol": "IRIG",
+    "name": "INTEGRATED DRILLIN",
+    "type": 6,
+    "remark": "",
+    "exchange": "PINK",
+    "created": 1600394300852
+  },
+  {
+    "symbol": "00011",
+    "name": "恒生银行",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300841
+  },
+  {
+    "symbol": "SZ300413",
+    "name": "芒果超媒",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394300830
+  },
+  {
+    "symbol": "AGN",
+    "name": "艾尔建医疗",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394300819
+  },
+  {
+    "symbol": "BRQS",
+    "name": "播思通讯",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394300803
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "谷歌A",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394300791
+  },
+  {
+    "symbol": "SH688278",
+    "name": "特宝生物",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300779
+  },
+  {
+    "symbol": "SH688268",
+    "name": "华特气体",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300740
+  },
+  {
+    "symbol": "HHT",
+    "name": "Color Star",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394300729
+  },
+  {
+    "symbol": "SH688018",
+    "name": "乐鑫科技",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300720
+  },
+  {
+    "symbol": "02833",
+    "name": "恒指ETF",
+    "type": 33,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300709
+  },
+  {
+    "symbol": "00419",
+    "name": "华谊腾讯娱乐",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300697
+  },
+  {
+    "symbol": "SZ000068",
+    "name": "华控赛格",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394300676
+  },
+  {
+    "symbol": "SH600030",
+    "name": "中信证券",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300666
+  },
+  {
+    "symbol": "SZ002709",
+    "name": "天赐材料",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394300655
+  },
+  {
+    "symbol": "01250",
+    "name": "北控清洁能源集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300643
+  },
+  {
+    "symbol": "SH688012",
+    "name": "中微公司",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300632
+  },
+  {
+    "symbol": "SH688365",
+    "name": "光云科技",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300621
+  },
+  {
+    "symbol": "SH603012",
+    "name": "创力集团",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300611
+  },
+  {
+    "symbol": "BK0061",
+    "name": "酒店及餐饮",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394300601
+  },
+  {
+    "symbol": "SH603392",
+    "name": "万泰生物",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300591
+  },
+  {
+    "symbol": "SZ002091",
+    "name": "江苏国泰",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394300581
+  },
+  {
+    "symbol": "01953",
+    "name": "RIMBACO",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300572
+  },
+  {
+    "symbol": "08337",
+    "name": "直通电讯",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300561
+  },
+  {
+    "symbol": "ICON",
+    "name": "艾康尼斯品牌",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394300540
+  },
+  {
+    "symbol": "SH601988",
+    "name": "中国银行",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300529
+  },
+  {
+    "symbol": "SH900901",
+    "name": "云赛B股",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300518
+  },
+  {
+    "symbol": "02822",
+    "name": "南方A50",
+    "type": 33,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300498
+  },
+  {
+    "symbol": "XRF",
+    "name": "信而富",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394300488
+  },
+  {
+    "symbol": "SH601989",
+    "name": "中国重工",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300477
+  },
+  {
+    "symbol": "SH601766",
+    "name": "中国中车",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300469
+  },
+  {
+    "symbol": "SH600150",
+    "name": "中国船舶",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300459
+  },
+  {
+    "symbol": "SH600118",
+    "name": "中国卫星",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300447
+  },
+  {
+    "symbol": "NMZ",
+    "name": "Nuveen Municipal High Income Opportunity Fund , $0.01 par value, per share",
+    "type": 4,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394300438
+  },
+  {
+    "symbol": "06163",
+    "name": "彭顺国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300426
+  },
+  {
+    "symbol": "SH601857",
+    "name": "中国石油",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300416
+  },
+  {
+    "symbol": "SH601800",
+    "name": "中国交建",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300406
+  },
+  {
+    "symbol": "SH601985",
+    "name": "中国核电",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300386
+  },
+  {
+    "symbol": "SH600584",
+    "name": "长电科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300377
+  },
+  {
+    "symbol": "RETO",
+    "name": "瑞图生态",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394300367
+  },
+  {
+    "symbol": "BK0701",
+    "name": "转基因",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394300357
+  },
+  {
+    "symbol": "SZ002294",
+    "name": "信立泰",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394300347
+  },
+  {
+    "symbol": "SZ002975",
+    "name": "博杰股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394300338
+  },
+  {
+    "symbol": "NDAQ",
+    "name": "纳斯达克OMX交易所",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394300329
+  },
+  {
+    "symbol": "SH600763",
+    "name": "通策医疗",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394300319
+  },
+  {
+    "symbol": "JOB",
+    "name": "GEE Group",
+    "type": 0,
+    "remark": "",
+    "exchange": "AMEX",
+    "created": 1600394300309
+  },
+  {
+    "symbol": "LMND",
+    "name": "Lemonade",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394300300
+  },
+  {
+    "symbol": "GRAF",
+    "name": "Graf Acquisition",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394300291
+  },
+  {
+    "symbol": "LGHL",
+    "name": "狮子集团控股",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394300281
+  },
+  {
+    "symbol": "00015",
+    "name": "盈信控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300271
+  },
+  {
+    "symbol": "00048",
+    "name": "中国汽车内饰",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300225
+  },
+  {
+    "symbol": "00915",
+    "name": "道和环球",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300214
+  },
+  {
+    "symbol": "08229",
+    "name": "FUTURE DATA",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300205
+  },
+  {
+    "symbol": "08422",
+    "name": "WT集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300196
+  },
+  {
+    "symbol": "01612",
+    "name": "永胜医疗",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300186
+  },
+  {
+    "symbol": "01130",
+    "name": "中国环境资源",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300177
+  },
+  {
+    "symbol": "01708",
+    "name": "三宝科技",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300164
+  },
+  {
+    "symbol": "06119",
+    "name": "天源集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300154
+  },
+  {
+    "symbol": "08401",
+    "name": "源想集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300145
+  },
+  {
+    "symbol": "00475",
+    "name": "中发展控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300131
+  },
+  {
+    "symbol": "02296",
+    "name": "华记环球集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300118
+  },
+  {
+    "symbol": "00456",
+    "name": "新城市建设发展",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300098
+  },
+  {
+    "symbol": "00766",
+    "name": "中盈集团控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300087
+  },
+  {
+    "symbol": "00574",
+    "name": "百信国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300078
+  },
+  {
+    "symbol": "01237",
+    "name": "中科生物",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300068
+  },
+  {
+    "symbol": "00819",
+    "name": "天能动力",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300050
+  },
+  {
+    "symbol": "01211",
+    "name": "比亚迪股份",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300042
+  },
+  {
+    "symbol": "00853",
+    "name": "微创医疗",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300033
+  },
+  {
+    "symbol": "00966",
+    "name": "中国太平",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394300024
+  },
+  {
+    "symbol": "BK0728",
+    "name": "注册制次新股",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394299974
+  },
+  {
+    "symbol": "GRAF.UN",
+    "name": "Graf Industrial Corp. Units, each consisting of One share of  and One redeemable Warrant",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394299963
+  },
+  {
+    "symbol": "SH601216",
+    "name": "君正集团",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299952
+  },
+  {
+    "symbol": "SH603027",
+    "name": "千禾味业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299943
+  },
+  {
+    "symbol": "SZ002027",
+    "name": "分众传媒",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299923
+  },
+  {
+    "symbol": "SZ002507",
+    "name": "涪陵榨菜",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299913
+  },
+  {
+    "symbol": "SH605006",
+    "name": "山东玻纤",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299898
+  },
+  {
+    "symbol": "SZ300297",
+    "name": "蓝盾股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299890
+  },
+  {
+    "symbol": "QQQ",
+    "name": "纳指100ETF-Invesco",
+    "type": 4,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299855
+  },
+  {
+    "symbol": "00565",
+    "name": "锦艺集团控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299846
+  },
+  {
+    "symbol": "SZ300449",
+    "name": "汉邦高科",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299837
+  },
+  {
+    "symbol": "09633",
+    "name": "农夫山泉",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299818
+  },
+  {
+    "symbol": "SZ300300",
+    "name": "海峡创新",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299810
+  },
+  {
+    "symbol": "CJJD",
+    "name": "九洲大药房",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299792
+  },
+  {
+    "symbol": "SZ002241",
+    "name": "歌尔股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299785
+  },
+  {
+    "symbol": "SZ300217",
+    "name": "东方电热",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299776
+  },
+  {
+    "symbol": "ABEO",
+    "name": "Abeona Therapeutics",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299758
+  },
+  {
+    "symbol": "AAPL",
+    "name": "苹果",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299750
+  },
+  {
+    "symbol": "FEFmain",
+    "name": "铁矿石主连",
+    "type": 50,
+    "remark": "",
+    "exchange": "SGX",
+    "created": 1600394299730
+  },
+  {
+    "symbol": "SZ300033",
+    "name": "同花顺",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299722
+  },
+  {
+    "symbol": "JMEI",
+    "name": "聚美优品",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394299706
+  },
+  {
+    "symbol": "02101",
+    "name": "福禄控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299697
+  },
+  {
+    "symbol": "04228",
+    "name": "政府债券一八零八",
+    "type": 34,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299634
+  },
+  {
+    "symbol": "SEEK",
+    "name": "THEDIRECTORY.COM INC.",
+    "type": 6,
+    "remark": "",
+    "exchange": "PINK",
+    "created": 1600394299626
+  },
+  {
+    "symbol": "08098",
+    "name": "昌利控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299616
+  },
+  {
+    "symbol": "00123",
+    "name": "越秀地产",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299608
+  },
+  {
+    "symbol": "IQ",
+    "name": "爱奇艺",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299601
+  },
+  {
+    "symbol": "ABEOW",
+    "name": "ABEONA THERAPEUTICS INC C/WTS 24/12/2019 (TO PUR COM)",
+    "type": 5,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299593
+  },
+  {
+    "symbol": "SH600987",
+    "name": "航民股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299585
+  },
+  {
+    "symbol": "SY",
+    "name": "新氧",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299565
+  },
+  {
+    "symbol": "WB",
+    "name": "微博",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299549
+  },
+  {
+    "symbol": "RENN",
+    "name": "人人",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394299540
+  },
+  {
+    "symbol": "SH600000",
+    "name": "浦发银行",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299525
+  },
+  {
+    "symbol": "CBAT",
+    "name": "CBAK能源科技",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299514
+  },
+  {
+    "symbol": "YRIV",
+    "name": "武汉长江发展",
+    "type": 6,
+    "remark": "",
+    "exchange": "PINK",
+    "created": 1600394299507
+  },
+  {
+    "symbol": "SH600897",
+    "name": "厦门空港",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299498
+  },
+  {
+    "symbol": "SZ002475",
+    "name": "立讯精密",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299490
+  },
+  {
+    "symbol": "SZ002626",
+    "name": "金达威",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299481
+  },
+  {
+    "symbol": "BK0051",
+    "name": "机场航运",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394299473
+  },
+  {
+    "symbol": "PT",
+    "name": "品钛",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299465
+  },
+  {
+    "symbol": "SH603843",
+    "name": "正平股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299457
+  },
+  {
+    "symbol": "SZ000001",
+    "name": "平安银行",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299449
+  },
+  {
+    "symbol": "GOOG",
+    "name": "谷歌C",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299400
+  },
+  {
+    "symbol": "BABA",
+    "name": "阿里巴巴",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394299392
+  },
+  {
+    "symbol": "SH688981",
+    "name": "中芯国际",
+    "type": 82,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299385
+  },
+  {
+    "symbol": "TFmain",
+    "name": "天然橡胶主连",
+    "type": 50,
+    "remark": "",
+    "exchange": "SGX",
+    "created": 1600394299377
+  },
+  {
+    "symbol": "BILI",
+    "name": "哔哩哔哩",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600394299370
+  },
+  {
+    "symbol": "BK0035",
+    "name": "纺织制造",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394299362
+  },
+  {
+    "symbol": "SH600795",
+    "name": "国电电力",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299354
+  },
+  {
+    "symbol": "BK0037",
+    "name": "造纸",
+    "type": 81,
+    "remark": "",
+    "exchange": "CN",
+    "created": 1600394299289
+  },
+  {
+    "symbol": "00001",
+    "name": "长和",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299277
+  },
+  {
+    "symbol": "03800",
+    "name": "保利协鑫能源",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299269
+  },
+  {
+    "symbol": "BK1489",
+    "name": "奢侈品",
+    "type": 8,
+    "remark": "",
+    "exchange": "US",
+    "created": 1600394299228
+  },
+  {
+    "symbol": "JYVIX",
+    "name": "日元波动率指数",
+    "type": 0,
+    "remark": "",
+    "exchange": "INDEXCBOE",
+    "created": 1600394299220
+  },
+  {
+    "symbol": "SZ300124",
+    "name": "汇川技术",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299205
+  },
+  {
+    "symbol": "SZ300027",
+    "name": "华谊兄弟",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299196
+  },
+  {
+    "symbol": "SZ000662",
+    "name": "天夏退",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600394299186
+  },
+  {
+    "symbol": "SH600126",
+    "name": "杭钢股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299177
+  },
+  {
+    "symbol": "SH600048",
+    "name": "保利地产",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600394299169
+  },
+  {
+    "symbol": "HKHSHK35",
+    "name": "恒生香港35指数",
+    "type": 31,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299161
+  },
+  {
+    "symbol": "08210",
+    "name": "衍汇亚洲",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299154
+  },
+  {
+    "symbol": "01452",
+    "name": "迪诺斯环保",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600394299146
+  },
+  {
+    "symbol": "NIO",
+    "name": "蔚来",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600394251212
+  },
+  {
+    "symbol": "PACK+",
+    "name": "RANPAK HOLDINGS CORP C/WTS 03/06/2024 (TO PUR COM)",
+    "type": 5,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600393722030
+  },
+  {
+    "symbol": "01188",
+    "name": "正道集团",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600393094335
+  },
+  {
+    "symbol": "01013",
+    "name": "伟俊集团控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600337515942
+  },
+  {
+    "symbol": "DNJR",
+    "name": "点牛金融",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600258084951
+  },
+  {
+    "symbol": "WAFU",
+    "name": "华富教育",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600258084943
+  },
+  {
+    "symbol": "STG",
+    "name": "尚德机构",
+    "type": 0,
+    "remark": "",
+    "exchange": "NYSE",
+    "created": 1600258084933
+  },
+  {
+    "symbol": "LLIT",
+    "name": "联络智能",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600258084919
+  },
+  {
+    "symbol": "01810",
+    "name": "小米集团-W",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600258084904
+  },
+  {
+    "symbol": "00700",
+    "name": "腾讯控股",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600258084895
+  },
+  {
+    "symbol": "01918",
+    "name": "融创中国",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600258084887
+  },
+  {
+    "symbol": "00981",
+    "name": "中芯国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600258084879
+  },
+  {
+    "symbol": "SH601012",
+    "name": "隆基股份",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600258084857
+  },
+  {
+    "symbol": "SH600031",
+    "name": "三一重工",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600258084847
+  },
+  {
+    "symbol": "SH600016",
+    "name": "民生银行",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600258084836
+  },
+  {
+    "symbol": "CNmain",
+    "name": "富时A50指数主连",
+    "type": 50,
+    "remark": "",
+    "exchange": "SGX",
+    "created": 1600258084821
+  },
+  {
+    "symbol": "CUSmain",
+    "name": "HK人民币主连",
+    "type": 50,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1600258084812
+  },
+  {
+    "symbol": "SH601288",
+    "name": "农业银行",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1600258084793
+  },
+  {
+    "symbol": "SJ",
+    "name": "思享无限",
+    "type": 0,
+    "remark": "",
+    "exchange": "NASDAQ",
+    "created": 1600236846381
+  },
+  {
+    "symbol": "SZ000661",
+    "name": "长春高新",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1600070524771
+  },
+  {
+    "symbol": "SH601318",
+    "name": "中国平安",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1599632782511
+  },
+  {
+    "symbol": "SZ000651",
+    "name": "格力电器",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1599629041094
+  },
+  {
+    "symbol": "02202",
+    "name": "万科企业",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1599625457653
+  },
+  {
+    "symbol": "SZ300475",
+    "name": "聚隆科技",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1599620062845
+  },
+  {
+    "symbol": "SH601088",
+    "name": "中国神华",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1599618274687
+  },
+  {
+    "symbol": "SH600309",
+    "name": "万华化学",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1599618268182
+  },
+  {
+    "symbol": "SH600276",
+    "name": "恒瑞医药",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1599618251257
+  },
+  {
+    "symbol": "SH600900",
+    "name": "长江电力",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1599618244567
+  },
+  {
+    "symbol": "SH600660",
+    "name": "福耀玻璃",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1599618235708
+  },
+  {
+    "symbol": "SZ300015",
+    "name": "爱尔眼科",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1599618226546
+  },
+  {
+    "symbol": "SH600036",
+    "name": "招商银行",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1599618220510
+  },
+  {
+    "symbol": "SH600519",
+    "name": "贵州茅台",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1599618212892
+  },
+  {
+    "symbol": "SZ002456",
+    "name": "欧菲光",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1599030140675
+  },
+  {
+    "symbol": "SZ000002",
+    "name": "万科A",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1599030140675
+  },
+  {
+    "symbol": "SH603288",
+    "name": "海天味业",
+    "type": 11,
+    "remark": "",
+    "exchange": "SH",
+    "created": 1599030140675
+  },
+  {
+    "symbol": "06123",
+    "name": "圆通速递国际",
+    "type": 30,
+    "remark": "",
+    "exchange": "HK",
+    "created": 1599030140675
+  },
+  {
+    "symbol": "SZ300313",
+    "name": "ST天山",
+    "type": 11,
+    "remark": "",
+    "exchange": "SZ",
+    "created": 1599030140675
+  }
+]
