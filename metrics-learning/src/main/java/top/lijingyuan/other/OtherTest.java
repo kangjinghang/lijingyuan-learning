@@ -29,7 +29,8 @@ public class OtherTest {
         System.out.println(start);
 
         String regex = "[\\[\\]]";
-        String lText = "公告及通告 - [更換董事或重要行政職能或職責的變更 / 更換行政總裁 / 更換審核委員會成員 / 更換薪酬委員會成員 / 更換公司秘書 / 停牌]";
+//        String lText = "公告及通告 - [更換董事或重要行政職能或職責的變更 / 更換行政總裁 / 更換審核委員會成員 / 更換薪酬委員會成員 / 更換公司秘書 / 停牌]";
+        String lText = "公告及通告 - [不尋常價格/成交量變動 - 標準內容或超級內容]";
 //        String lText = "交易所買賣基金的交易資料";
 //        String lText = "";
         List<String> list = Splitter.on(Pattern.compile(regex)).splitToList(lText);
@@ -38,7 +39,7 @@ public class OtherTest {
         if (list.size() > 1) {
             String allTitle = list.get(1);
             List<String> t2Titles = Lists.newArrayList();
-            Splitter.on('/').split(allTitle).forEach(t -> t2Titles.add(t.trim()));
+            Splitter.on(" / ").split(allTitle).forEach(t2Titles::add);
             t2Titles.forEach(System.out::println);
 //            List<String> t2Titles = Splitter.on('/').splitToStream(allTitle).map(String::trim).collect(Collectors.toList());
 //            t2Titles.forEach(System.out::println);
