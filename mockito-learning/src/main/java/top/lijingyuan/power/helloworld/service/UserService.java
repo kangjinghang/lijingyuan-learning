@@ -12,17 +12,20 @@ import top.lijingyuan.power.helloworld.dao.UserDao;
  */
 public class UserService {
 
-    private UserDao userDao;
+    public UserService() {
+    }
 
     public UserService(UserDao userDao) {
-        this.userDao = userDao;
+//        this.userDao = userDao;
     }
 
     public int queryUserCount(){
+        UserDao userDao = new UserDao();
         return userDao.getCount();
     }
 
     public void saveUser(User user){
+        UserDao userDao = new UserDao();
         userDao.insertUser(user);
     }
 

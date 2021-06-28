@@ -10,8 +10,7 @@ import top.lijingyuan.power.common.User;
 import top.lijingyuan.power.helloworld.dao.UserDao;
 
 import static org.junit.Assert.*;
-import static org.mockito.Mockito.doReturn;
-import static org.mockito.Mockito.when;
+import static org.mockito.Mockito.*;
 
 /**
  * UserServiceTest
@@ -77,5 +76,16 @@ public class UserServiceTest {
         assertEquals(result, 10);
     }
 
+    @Test
+    public void saveUserWithPowerMock() {
+        UserDao uDao = PowerMockito.mock(UserDao.class);
+        User user = new User();
+        doNothing().when(uDao).insertUser(user);
+
+        UserService service = new UserService(uDao);
+
+        service.saveUser(user);
+        verify(uDao).insertUser(user);
+    }
 
 }
