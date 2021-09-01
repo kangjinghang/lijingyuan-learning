@@ -5,6 +5,7 @@ import cn.hutool.core.io.resource.ResourceUtil;
 import cn.hutool.json.JSONArray;
 import cn.hutool.json.JSONObject;
 import cn.hutool.json.JSONUtil;
+import lombok.extern.slf4j.Slf4j;
 
 import java.net.URL;
 import java.util.List;
@@ -17,9 +18,32 @@ import java.util.stream.Collectors;
  * @date 2021-05-21
  * @since 1.0.0
  */
+@Slf4j
 public class Test {
 
     public static void main(String[] args) {
+//        generateJson();
+//        System.out.println(jsonArray.stream().map(JSON.class::cast).map(json -> (String) json.getByPath("symbol"))
+//                .collect(Collectors.joining(",")));
+//        URL resource = ResourceUtil.getResource("stock.json");
+//        String str = FileUtil.readString(resource, "utf-8");
+//        JSONArray jsonArray = JSONUtil.parseArray(str);
+//        System.out.println(jsonArray.size());
+//        System.out.println(jsonArray.stream().map(JSON.class::cast).map(json -> (String) json.getByPath("symbol"))
+//                .collect(Collectors.joining(",")));
+
+//        System.out.println(DateUtil.beginOfMonth(new Date()));
+        log.error("this is a error");
+        String symbol = "aa";
+        try {
+            int i = 1 / 0;
+        } catch (Exception e){
+            log.error("refreshLastedCikBySymbol error",e.toString());
+            log.error("refreshLastedCikBySymbol symbol = {} , error={}",symbol,e);
+        }
+    }
+
+    private static void generateJson() {
         URL resource = ResourceUtil.getResource("t2Code.json");
         String str = FileUtil.readString(resource, "utf-8");
         JSONArray jsonArray = JSONUtil.parseArray(str);
@@ -77,14 +101,6 @@ public class Test {
             }
             System.out.println("t2(" + json.getInt("code") + "," + json.getInt("t2Gcode") + ",\"" + json.getStr("name") + "\"," + t1CodeStr + "),");
         }
-//        System.out.println(jsonArray.stream().map(JSON.class::cast).map(json -> (String) json.getByPath("symbol"))
-//                .collect(Collectors.joining(",")));
-//        URL resource = ResourceUtil.getResource("stock.json");
-//        String str = FileUtil.readString(resource, "utf-8");
-//        JSONArray jsonArray = JSONUtil.parseArray(str);
-//        System.out.println(jsonArray.size());
-//        System.out.println(jsonArray.stream().map(JSON.class::cast).map(json -> (String) json.getByPath("symbol"))
-//                .collect(Collectors.joining(",")));
     }
 
 }

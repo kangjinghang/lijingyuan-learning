@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>elastic-job-learning</artifactId>
+    <artifactId>disruptor-learning</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -17,17 +17,18 @@
     </properties>
 
     <dependencies>
-        <!--        <dependency>-->
-        <!--            <groupId>com.dangdang</groupId>-->
-        <!--            <artifactId>elastic-job-lite-core</artifactId>-->
-        <!--        </dependency>-->
-        <dependency>
-            <groupId>org.apache.shardingsphere.elasticjob</groupId>
-            <artifactId>elasticjob-lite-core</artifactId>
-        </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.lmax</groupId>
+            <artifactId>disruptor</artifactId>
+        </dependency>
     </dependencies>
+
 </project>

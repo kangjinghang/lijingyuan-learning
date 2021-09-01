@@ -19,8 +19,8 @@ public class TimerExample {
     private static final MetricRegistry METRIC_REGISTRY = new MetricRegistry();
 
     private static final ConsoleReporter REPORTER = ConsoleReporter.forRegistry(METRIC_REGISTRY)
-            .convertRatesTo(TimeUnit.SECONDS)
-            .convertDurationsTo(TimeUnit.SECONDS)
+//            .convertRatesTo(TimeUnit.SECONDS)
+//            .convertDurationsTo(TimeUnit.SECONDS)
             .build();
 
     private static final Timer TIMER = METRIC_REGISTRY.timer("request", Timer::new);

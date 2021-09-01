@@ -2,6 +2,8 @@ package top.lijingyuan.guava.learning.cache;
 
 import com.google.common.base.Optional;
 import com.google.common.cache.*;
+import com.google.common.util.concurrent.Futures;
+import com.google.common.util.concurrent.ListenableFuture;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
@@ -16,14 +18,14 @@ import java.util.concurrent.TimeUnit;
 public class CacheLorderTest {
 
     public static void main(String[] args) throws ExecutionException {
-//        testBasic();
+        testBasic();
 //        testEvictionBySize();
 //        testEvictionByWeight();
 //        testEvictionByAccessTime();
 //        testCacheRemoveNotification();
 //        testCacheStat();
 //        testCacheSpec();
-        testEvictionByWriteTime();
+//        testEvictionByWriteTime();
     }
 
     private static void testLoadNullValue() {
@@ -97,16 +99,31 @@ public class CacheLorderTest {
 
     private static void testBasic() throws ExecutionException {
         LoadingCache<String, Employee> cache = CacheBuilder.newBuilder()
-                .maximumSize(10).expireAfterAccess(10, TimeUnit.SECONDS)
-                .build(createCacheLoader());
+                .maximumSize(10)
+                .expireAfterWrite(10, TimeUnit.SECONDS)
+                .refreshAfterWrite(2,TimeUnit.SECONDS)
+                .build(new CacheLoader<String, Employee>() {
+                    @Override
+                    public Employee load(String key) throws Exception {
+                        System.out.println("load...");
+                        return new Employee(key, key, key);
+                    }
+
+                    @Override
+                    public ListenableFuture<Employee> reload(String key, Employee oldValue) throws Exception {
+                        System.out.println("reload...");
+                        return Futures.immediateFuture(new Employee("jj","Kk","ll"));
+                    }
+                });
         Employee employee = cache.get("kang");
         System.out.println(employee);
         try {
-            TimeUnit.SECONDS.sleep(12);
+            TimeUnit.SECONDS.sleep(13);
+
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        cache.get("kang");
+        System.out.println(cache.get("kang"));
     }
 
     private static CacheLoader<String, Employee> createCacheLoader() {
@@ -117,6 +134,7 @@ public class CacheLorderTest {
 //            }
 //        };
 //        return CacheLoader.from(key -> new Employee(key, key, key));
+        System.out.println("createCacheLoader");
         return CacheLoader.from(key -> key.equals("null") ? null : new Employee(key, key, key));
     }
 

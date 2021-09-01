@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TSInstructions xmlns="http://ts.szse.cn/Instruction">
+    <index>
+        <SecurityID>980001</SecurityID>
+        <SecurityIDSource>102</SecurityIDSource>
+        <Symbol>湾创100-symbol</Symbol>
+        <SymbolEx>湾创100</SymbolEx>
+        <EnglishName></EnglishName>
+        <IndexType>01</IndexType>
+        <Currency>CNY</Currency>
+        ci <PrevCloseIdx>1631.03600</PrevCloseIdx>
+        <ConstituentSource>04</ConstituentSource>
+    </index>
+    <index>
+        <SecurityID>980017</SecurityID>
+        <SecurityIDSource>102</SecurityIDSource>
+        <Symbol>国证芯片-symbol</Symbol>
+        <SymbolEx>国证芯片</SymbolEx>
+        <EnglishName></EnglishName>
+        <IndexType>01</IndexType>
+        <Currency>CNY</Currency>
+        <PrevCloseIdx>12105.71330</PrevCloseIdx>
+        <ConstituentSource>03</ConstituentSource>
+    </index>
+    <index>
+        <SecurityID>980023</SecurityID>
+        <SecurityIDSource>102</SecurityIDSource>
+        <Symbol>南山50-symbol</Symbol>
+        <SymbolEx>南山50</SymbolEx>
+        <EnglishName></EnglishName>
+        <IndexType>01</IndexType>
+        <Currency>CNY</Currency>
+        <PrevCloseIdx>3051.34690</PrevCloseIdx>
+        <ConstituentSource>05</ConstituentSource>
+    </index>
+    <index>
+        <SecurityID>980068</SecurityID>
+        <SecurityIDSource>102</SecurityIDSource>
+        <Symbol>蓝色100-symbol</Symbol>
+        <SymbolEx>蓝色100</SymbolEx>
+        <EnglishName></EnglishName>
+        <IndexType>01</IndexType>
+        <Currency>CNY</Currency>
+        <PrevCloseIdx>2277.43630</PrevCloseIdx>
+        <ConstituentSource>05</ConstituentSource>
+    </index>
+</TSInstructions>
