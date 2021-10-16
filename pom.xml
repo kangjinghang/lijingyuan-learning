@@ -17,6 +17,7 @@
         <module>disruptor-learning</module>
         <module>redis-learning</module>
         <module>netty-learning</module>
+        <module>zookeeper-learning</module>
     </modules>
 
     <properties>
@@ -170,6 +171,28 @@
                 <artifactId>jedis</artifactId>
                 <version>3.6.3</version>
             </dependency>
+
+            <dependency>
+                <groupId>org.apache.zookeeper</groupId>
+                <artifactId>zookeeper</artifactId>
+                <version>3.7.0</version>
+            </dependency>
+
+<!--            <dependency>-->
+<!--                <groupId>org.apache.curator</groupId>-->
+<!--                <artifactId>curator-framework</artifactId>-->
+<!--                <version>5.2.0</version>-->
+<!--            </dependency>-->
+            <dependency>
+                <groupId>org.apache.curator</groupId>
+                <artifactId>curator-recipes</artifactId>
+                <version>5.2.0</version>
+            </dependency>
+<!--            <dependency>-->
+<!--                <groupId>org.apache.curator</groupId>-->
+<!--                <artifactId>curator-client</artifactId>-->
+<!--                <version>5.2.0</version>-->
+<!--            </dependency>-->
         </dependencies>
     </dependencyManagement>
 

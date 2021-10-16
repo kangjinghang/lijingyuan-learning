@@ -2,6 +2,7 @@ package top.lijingyuan.netty.chapter4.server.handler;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
+import lombok.extern.slf4j.Slf4j;
 import top.lijingyuan.netty.chapter4.common.OperationResult;
 import top.lijingyuan.netty.chapter4.common.RequestMessage;
 import top.lijingyuan.netty.chapter4.common.ResponseMessage;
@@ -13,6 +14,7 @@ import top.lijingyuan.netty.chapter4.common.ResponseMessage;
  * @date 2021-09-06
  * @since 1.0.0
  */
+@Slf4j
 public class OrderServerProcessHandler extends SimpleChannelInboundHandler<RequestMessage> {
 
     @Override
@@ -24,8 +26,13 @@ public class OrderServerProcessHandler extends SimpleChannelInboundHandler<Reque
         ResponseMessage responseMessage = new ResponseMessage();
         responseMessage.setMessageHeader(requestMessage.getMessageHeader());
         responseMessage.setMessageBody(operationResult);
-
-        ctx.writeAndFlush(responseMessage);
+        // 判断是否可写，防止OOM
+        if(ctx.channel().isActive() && ctx.channel().isWritable()){
+            ctx.writeAndFlush(responseMessage);
+        }else {
+            // 要么把数据丢掉，要么存起来，想其他办法再发送
+            log.error("message dropped");
+        }
     }
 
 }
