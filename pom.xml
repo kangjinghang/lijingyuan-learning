@@ -18,6 +18,8 @@
         <module>redis-learning</module>
         <module>netty-learning</module>
         <module>zookeeper-learning</module>
+        <module>grpc-learning</module>
+        <module>junit5-learning</module>
     </modules>
 
     <properties>
@@ -51,17 +53,27 @@
             <dependency>
                 <groupId>io.grpc</groupId>
                 <artifactId>grpc-netty-shaded</artifactId>
-                <version>1.37.1</version>
+                <version>1.41.0</version>
             </dependency>
             <dependency>
                 <groupId>io.grpc</groupId>
                 <artifactId>grpc-protobuf</artifactId>
-                <version>1.37.1</version>
+                <version>1.41.0</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-testing</artifactId>
+                <version>1.41.0</version>
+            </dependency>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-services</artifactId>
+                <version>1.41.0</version>
             </dependency>
             <dependency>
                 <groupId>io.grpc</groupId>
                 <artifactId>grpc-stub</artifactId>
-                <version>1.37.1</version>
+                <version>1.41.0</version>
             </dependency>
             <!--            <dependency> &lt;!&ndash; necessary for Java 9+ &ndash;&gt;-->
             <!--                <groupId>org.apache.tomcat</groupId>-->
@@ -193,7 +205,30 @@
 <!--                <artifactId>curator-client</artifactId>-->
 <!--                <version>5.2.0</version>-->
 <!--            </dependency>-->
+
+            <dependency>
+                <groupId>org.junit.jupiter</groupId>
+                <artifactId>junit-jupiter-api</artifactId>
+                <version>5.7.2</version>
+            </dependency>
+            <dependency>
+                <groupId>org.junit.jupiter</groupId>
+                <artifactId>junit-jupiter-engine</artifactId>
+                <version>5.7.2</version>
+            </dependency>
         </dependencies>
+
     </dependencyManagement>
+
+    <build>
+        <extensions>
+            <extension>
+                <groupId>kr.motd.maven</groupId>
+                <artifactId>os-maven-plugin</artifactId>
+                <!--引入操作系统os设置的属性插件,否则${os.detected.classifier} 操作系统版本会找不到 -->
+                <version>1.7.0</version>
+            </extension>
+        </extensions>
+    </build>
 
 </project>
