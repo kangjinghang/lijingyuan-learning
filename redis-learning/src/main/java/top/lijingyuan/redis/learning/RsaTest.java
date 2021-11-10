@@ -18,16 +18,16 @@ import java.util.Base64;
  * @date 2021-11-10
  * @since 1.0.0
  */
-public class RasTest {
+public class RsaTest {
 
     private static final String ALGORITHM = "RSA";
 
     private static final String UTF8 = StandardCharsets.UTF_8.name();
 
-    // rsa单次最大的加密的明文的大小
+    // rsa单次最大的加密的明文的字节数组大小
     private static final int MAX_ENCRYPT_BLOCK = 117;
 
-    // rsa单次最大的解密的密文的大小
+    // rsa单次最大的解密的密文的字节数组大小
     private static final int MAX_DECRYPT_BLOCK = 128;
 
     private static String publicKeyPath;
@@ -35,7 +35,7 @@ public class RasTest {
     private static String privateKeyPath;
 
     static {
-        ClassLoader classLoader = RasTest.class.getClassLoader();
+        ClassLoader classLoader = RsaTest.class.getClassLoader();
         publicKeyPath = classLoader.getResource("rsa.pub").getPath();
         privateKeyPath = classLoader.getResource("rsa.pri").getPath();
     }
@@ -56,7 +56,7 @@ public class RasTest {
         FileUtils.writeByteArrayToFile(new File(privateKeyPath), privateKeyStr.getBytes(UTF8));
     }
 
-    private PublicKey generatePublicKey() throws Exception {
+    public PublicKey getPublicKey() throws Exception {
         String publicKeyStr = FileUtils.readFileToString(new File(publicKeyPath), UTF8);
         byte[] decodeBase64 = Base64.getDecoder().decode(publicKeyStr);
         // 公钥规则：X059
@@ -65,7 +65,7 @@ public class RasTest {
         return keyFactory.generatePublic(x509EncodedKeySpec);
     }
 
-    private PrivateKey generatePrivateKey() throws Exception {
+    public PrivateKey getPrivateKey() throws Exception {
         String privateKeyStr = FileUtils.readFileToString(new File(privateKeyPath), UTF8);
         byte[] decodeBase64 = Base64.getDecoder().decode(privateKeyStr);
         // 私钥的规则就是 PKCS8
@@ -75,18 +75,18 @@ public class RasTest {
     }
 
     public static void main(String[] args) throws Exception {
-        RasTest test = new RasTest();
+        RsaTest test = new RsaTest();
 //        test.writeKey2File();
         String str = "乐之者Java";
         // 公钥加密
-        String encrypt = test.encrypt(str, test.generatePublicKey());
+        String encrypt = test.encrypt(str, test.getPublicKey());
         // 私钥解密
-        System.out.println(test.decrypt(encrypt, test.generatePrivateKey()));
+        System.out.println(test.decrypt(encrypt, test.getPrivateKey()));
 
         // 私钥加密
-        encrypt = test.encrypt(str, test.generatePrivateKey());
+        encrypt = test.encrypt(str, test.getPrivateKey());
         // 公钥解密
-        System.out.println(test.decrypt(encrypt, test.generatePublicKey()));
+        System.out.println(test.decrypt(encrypt, test.getPublicKey()));
 
     }
 
