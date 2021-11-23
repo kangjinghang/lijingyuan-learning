@@ -20,6 +20,7 @@
         <module>zookeeper-learning</module>
         <module>grpc-learning</module>
         <module>junit5-learning</module>
+        <module>sentinel-learning</module>
     </modules>
 
     <properties>
@@ -215,6 +216,22 @@
                 <groupId>org.junit.jupiter</groupId>
                 <artifactId>junit-jupiter-engine</artifactId>
                 <version>5.7.2</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.alibaba.csp</groupId>
+                <artifactId>sentinel-core</artifactId>
+                <version>1.8.2</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba.csp</groupId>
+                <artifactId>sentinel-transport-simple-http</artifactId>
+                <version>1.8.2</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba.csp</groupId>
+                <artifactId>sentinel-annotation-aspectj</artifactId>
+                <version>1.8.2</version>
             </dependency>
         </dependencies>
 
