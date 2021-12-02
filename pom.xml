@@ -233,6 +233,16 @@
                 <artifactId>sentinel-annotation-aspectj</artifactId>
                 <version>1.8.2</version>
             </dependency>
+            <dependency>
+                <groupId>com.alibaba.csp</groupId>
+                <artifactId>sentinel-cluster-client-default</artifactId>
+                <version>1.8.2</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba.csp</groupId>
+                <artifactId>sentinel-cluster-server-default</artifactId>
+                <version>1.8.2</version>
+            </dependency>
         </dependencies>
 
     </dependencyManagement>
