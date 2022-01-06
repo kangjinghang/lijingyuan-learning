@@ -22,7 +22,7 @@
     <root level="INFO">
         <appender-ref ref="STDOUT" />
     </root>
-    <logger name="com.lijingyuan.metrics" level="INFO">
+    <logger name="top.lijingyuan.metrics" level="INFO">
         <appender-ref ref="FILE"/>
     </logger>
 </configuration>

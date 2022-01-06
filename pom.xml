@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.lijingyuan</groupId>
+    <groupId>top.lijingyuan</groupId>
     <artifactId>lijingyuan-learning</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -21,6 +21,9 @@
         <module>grpc-learning</module>
         <module>junit5-learning</module>
         <module>sentinel-learning</module>
+        <module>my-tool</module>
+        <module>juc-learning</module>
+        <module>websocket-learning</module>
     </modules>
 
     <properties>
@@ -243,6 +246,13 @@
                 <artifactId>sentinel-cluster-server-default</artifactId>
                 <version>1.8.2</version>
             </dependency>
+
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>fastjson</artifactId>
+                <version>1.2.79</version>
+            </dependency>
+
         </dependencies>
 
     </dependencyManagement>
