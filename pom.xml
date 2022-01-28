@@ -24,6 +24,7 @@
         <module>my-tool</module>
         <module>juc-learning</module>
         <module>websocket-learning</module>
+        <module>tomcat-learning</module>
     </modules>
 
     <properties>

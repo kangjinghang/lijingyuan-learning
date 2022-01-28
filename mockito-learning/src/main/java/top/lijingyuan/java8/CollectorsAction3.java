@@ -1,6 +1,5 @@
 package top.lijingyuan.java8;
 
-import sun.jvm.hotspot.utilities.Assert;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentSkipListMap;
@@ -326,7 +325,7 @@ public class CollectorsAction3 {
         for (String str : strings) {
             char c = str.charAt(str.length() - 1);
             Long val = Long.valueOf(str);
-            Assert.that(c - 48 == val % (val / 10 * 10), "error");
+//            MatcherAssert.assertThat(c - 48 == val % (val / 10 * 10), "error");
         }
 
         System.out.println(22L / 10 * 10);
