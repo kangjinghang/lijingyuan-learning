@@ -1,6 +1,7 @@
 package top.lijingyuan.guava.learning.cache;
 
 import com.google.common.cache.*;
+import com.google.common.util.concurrent.ListenableFuture;
 import org.junit.Test;
 
 import java.util.concurrent.Callable;
@@ -142,6 +143,36 @@ public class GuavaCacheTest {
         System.out.println("jerry:" + getCallableCache(u2name));
         System.out.println("lisa:" + getCallableCache(u3name));
         System.out.println("peida:" + getCallableCache(u1name));
+
+    }
+
+    @Test
+    public void testRefresh() throws Exception {
+        LoadingCache<String, String> loadingCache = CacheBuilder
+                .newBuilder()
+                .refreshAfterWrite(3, TimeUnit.SECONDS)
+                .build(new CacheLoader<String, String>() {
+                    @Override
+                    public String load(String key) throws Exception {
+                        return "hello " + key + "!";
+                    }
+
+                    @Override
+                    public ListenableFuture<String> reload(String key, String oldValue) throws Exception {
+                        System.out.println("reloading, key: " + key + ", oldValue: " + oldValue);
+                        return super.reload(key, oldValue);
+                    }
+                });
+
+        System.out.println("jerry value:" + loadingCache.get("jerry"));
+        System.out.println("peida value:" + loadingCache.get("peida"));
+
+        try {
+            TimeUnit.SECONDS.sleep(5);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        System.out.println("jerry value:" + loadingCache.get("jerry"));
 
     }
 
