@@ -96,8 +96,19 @@ public class TestIndexManager {
         Directory dir = FSDirectory.open(Paths.get("/Users/kangjinghang/workspace/temp/lucene"));
         // 5.创建 IndexWriterConfig 对象，这个对象中指定切分词使用的分词器
         IndexWriterConfig config = new IndexWriterConfig(analyzer);
+        // 每次重新创建索引，而不是继续添加
+        config.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
+        // .cfs，.cfe: compound 复合索引文件
+        // .fnm，.fdt，.fdx：field
+        // .si：segment info
+        // .tim，.tip：term
+        // 不使用复合文件的方式
+        config.setUseCompoundFile(false);
         // 6.创建 IndexWriter 输出流对象，指定输出的位置和使用的 config 初始化对象
         IndexWriter indexWriter = new IndexWriter(dir, config);
+        // 以下两行等价于 config.setOpenMode(IndexWriterConfig.OpenMode.CREATE);
+//        indexWriter.deleteAll();
+//        indexWriter.forceMergeDeletes();
         // 7.写入文档到索引库
         for (Document doc : docList) {
             indexWriter.addDocument(doc);

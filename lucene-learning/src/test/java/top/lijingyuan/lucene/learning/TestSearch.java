@@ -4,16 +4,17 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.IntPoint;
-import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.index.*;
 import org.apache.lucene.queryparser.classic.MultiFieldQueryParser;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.*;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.util.BytesRef;
 import org.junit.Test;
 import org.wltea.analyzer.lucene.IKAnalyzer;
 
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.Map;
@@ -76,6 +77,28 @@ public class TestSearch {
             }
         }
         // 10.关闭流
+    }
+
+    /**
+     * 获取分词器分词后某个域下面的所有的terms，依赖索引
+     */
+    @Test
+    public void testTermSearch() throws Exception {
+        Directory dir = FSDirectory.open(Paths.get("/Users/kangjinghang/workspace/temp/lucene"));
+        IndexReader indexReader = DirectoryReader.open(dir);
+
+        final Terms terms = MultiFields.getTerms(indexReader, "name");
+        final TermsEnum iterator = terms.iterator();
+        BytesRef bytesRef;
+        // 遍历 name 域下所有 term
+        while ((bytesRef = iterator.next()) != null) {
+            final String str = new String(bytesRef.bytes, bytesRef.offset, bytesRef.length, StandardCharsets.UTF_8);
+            System.out.println("term的值：" + str + "，在" +
+                    // df：document frequency，值越大，说明越常见，分值越小
+                    iterator.docFreq() + "个文档中出现，该term在所有文档的name域中共出现" +
+                    // tf：term frequency，值越大，分值越大
+                    iterator.totalTermFreq() + "次");
+        }
     }
 
 

@@ -1,9 +1,12 @@
 package top.lijingyuan.lucene.learning;
 
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.cjk.CJKAnalyzer;
 import org.apache.lucene.analysis.core.SimpleAnalyzer;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
@@ -22,12 +25,30 @@ import java.nio.file.Paths;
 public class TestAnalyzer {
 
     /**
-     * 去掉空格分词器, 不支持中文
-     *
-     * @throws Exception
+     * 标准分词器
      */
     @Test
-    public void TestWhitespaceAnalyzer() throws Exception {
+    public void testStandardAnalyzer() throws Exception {
+        String str = "vivo X23 8GB+128GB 幻夜蓝,水滴屏全面屏,游戏手机.移动联通电信全网通4G手机";
+        Analyzer analyzer = new StandardAnalyzer();
+        // token = term
+        final TokenStream tokenStream = analyzer.tokenStream("xxx", str);
+        // addAttribute 指定 stream 指针移动的时候，需要把 token 什么信息赋值给 ?.class
+        final CharTermAttribute attribute = tokenStream.addAttribute(CharTermAttribute.class);
+        // 重置 tokenStream，以便接下来的迭代是从头开始的
+        tokenStream.reset();
+        while (tokenStream.incrementToken()) {
+            System.out.println(attribute);
+        }
+        tokenStream.end();
+        tokenStream.close();
+    }
+
+    /**
+     * 去掉空格分词器, 不支持中文
+     */
+    @Test
+    public void testWhitespaceAnalyzer() throws Exception {
         // 1.创建分词器,分析文档，对文档进行分词
         Analyzer analyzer = new WhitespaceAnalyzer();
 
@@ -51,11 +72,9 @@ public class TestAnalyzer {
 
     /**
      * 简单分词器: 不支持中文, 将除了字母之外的所有符号全部取出, 所有大写字母转换成小写字母, 对于数字也会去除
-     *
-     * @throws Exception
      */
     @Test
-    public void TestSimpleAnalyzer() throws Exception {
+    public void testSimpleAnalyzer() throws Exception {
         // 1.创建分词器,分析文档，对文档进行分词
         Analyzer analyzer = new SimpleAnalyzer();
 
@@ -79,11 +98,9 @@ public class TestAnalyzer {
 
     /**
      * 中日韩分词器: 使用二分法分词, 去掉空格, 去掉标点符号, 所有大写字母转换成小写字母
-     *
-     * @throws Exception
      */
     @Test
-    public void TestCJKAnalyzer() throws Exception {
+    public void testCJKAnalyzer() throws Exception {
         // 1.创建分词器,分析文档，对文档进行分词
         Analyzer analyzer = new CJKAnalyzer();
 
@@ -108,11 +125,9 @@ public class TestAnalyzer {
     /**
      * 使用第三方分词器(IK分词)
      * 特点: 支持中文语义分析, 提供停用词典, 提供扩展词典, 供程序员扩展使用
-     *
-     * @throws Exception
      */
     @Test
-    public void TestIKAnalyzer() throws Exception {
+    public void testIKAnalyzer() throws Exception {
         // 1.创建分词器,分析文档，对文档进行分词
         Analyzer analyzer = new IKAnalyzer();
 
