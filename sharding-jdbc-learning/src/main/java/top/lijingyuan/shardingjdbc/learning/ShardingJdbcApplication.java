@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * ShardingJdbcApplication
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2022-05-19
  * @since 1.0.0
  */

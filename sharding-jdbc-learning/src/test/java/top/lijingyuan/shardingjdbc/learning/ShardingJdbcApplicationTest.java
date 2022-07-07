@@ -13,7 +13,7 @@ import top.lijingyuan.shardingjdbc.learning.mapper.CourseMapper;
 /**
  * ShardingJdbcApplicationTest
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2022-05-20
  * @since 1.0.0
  */

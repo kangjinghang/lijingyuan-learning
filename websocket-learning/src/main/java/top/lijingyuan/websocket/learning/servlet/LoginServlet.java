@@ -14,7 +14,7 @@ import java.util.Map;
 /**
  * LoginServlet
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2022-01-06
  * @since 1.0.0
  */

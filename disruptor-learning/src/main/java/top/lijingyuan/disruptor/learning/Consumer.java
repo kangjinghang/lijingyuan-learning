@@ -8,7 +8,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * Consumer
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-07-19
  * @since 1.0.0
  */

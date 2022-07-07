@@ -12,7 +12,7 @@ import static top.lijingyuan.java8.CollectorIntroduce.menu;
 /**
  * CollectorsAction3
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-07-07
  * @since 1.0.0
  */

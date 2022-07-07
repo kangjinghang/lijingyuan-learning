@@ -9,7 +9,7 @@ import java.security.Signature;
 /**
  * SignatureTest
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-11-10
  * @since 1.0.0
  */

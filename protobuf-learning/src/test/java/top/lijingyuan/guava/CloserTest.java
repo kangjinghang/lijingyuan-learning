@@ -12,7 +12,7 @@ import java.io.InputStream;
 /**
  * CloserTest
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-06-21
  * @since 1.0.0
  */

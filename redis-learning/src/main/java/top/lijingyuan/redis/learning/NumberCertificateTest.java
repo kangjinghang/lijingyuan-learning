@@ -10,7 +10,7 @@ import java.security.cert.CertificateFactory;
 /**
  * 从数字证书（a的公钥+签名（a的公钥+ca的私钥））中提取公钥
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-11-10
  * @since 1.0.0
  */

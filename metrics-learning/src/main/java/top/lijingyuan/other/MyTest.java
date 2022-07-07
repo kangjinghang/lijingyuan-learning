@@ -3,7 +3,7 @@ package top.lijingyuan.other;
 /**
  * TODO
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-08-18
  * @since 1.0.0
  */

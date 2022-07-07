@@ -30,7 +30,7 @@ import java.util.concurrent.ExecutionException;
 /**
  * Server
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-09-06
  * @since 1.0.0
  */

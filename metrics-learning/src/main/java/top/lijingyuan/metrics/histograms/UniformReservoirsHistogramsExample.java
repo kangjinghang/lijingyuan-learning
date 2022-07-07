@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
  * <p>
  * 直方图，展示平均数、中位数、标注误差率、75线、95线、99线
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-05-22
  * @since 1.0.0
  */

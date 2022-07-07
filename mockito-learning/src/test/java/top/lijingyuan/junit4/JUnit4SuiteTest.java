@@ -6,7 +6,7 @@ import org.junit.runners.Suite;
 /**
  * JUnit4SuiteTest
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-11-07
  * @since 1.0.0
  */

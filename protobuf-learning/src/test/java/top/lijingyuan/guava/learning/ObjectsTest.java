@@ -5,7 +5,7 @@ import com.google.common.collect.ComparisonChain;
 /**
  * ObjectsTest
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-05-16
  * @since 1.0.0
  */

@@ -13,7 +13,7 @@ import org.elasticsearch.client.RestHighLevelClient;
  * <p>
  * 删除索引
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-06-19
  * @since 1.0.0
  */

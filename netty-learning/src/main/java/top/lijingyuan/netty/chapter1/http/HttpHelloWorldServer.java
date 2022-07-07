@@ -17,7 +17,7 @@ import io.netty.handler.logging.LoggingHandler;
  * An HTTP server that sends back the content of the received HTTP request
  * in a pretty plaintext form.
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-09-01
  * @since 1.0.0
  */

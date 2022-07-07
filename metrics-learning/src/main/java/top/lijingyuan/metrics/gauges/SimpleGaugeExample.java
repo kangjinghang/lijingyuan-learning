@@ -16,7 +16,7 @@ import static com.codahale.metrics.MetricRegistry.name;
  * <p>
  * 就是仪表盘，准备的反映一个数字，队列的个数，在线人数等等。
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-05-22
  * @since 1.0.0
  */

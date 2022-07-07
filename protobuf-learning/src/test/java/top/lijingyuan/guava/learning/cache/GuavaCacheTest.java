@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * GuavaCacheTest
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2022-04-14
  * @since 1.0.0
  */

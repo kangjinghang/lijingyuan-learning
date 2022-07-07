@@ -11,7 +11,7 @@ import java.nio.file.Files;
 /**
  * 手写嵌入式Tomcat
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2022-01-20
  * @since 1.0.0
  */

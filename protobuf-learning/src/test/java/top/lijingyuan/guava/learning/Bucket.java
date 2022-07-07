@@ -9,7 +9,7 @@ import java.util.function.Consumer;
 /**
  * Bucket 漏桶算法，只关注处理速率
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-05-16
  * @since 1.0.0
  */

@@ -16,7 +16,7 @@ import java.util.concurrent.TimeUnit;
  * 就像是top或者uptime命令的load averages 负载均衡。
  * 这个例子就是每分钟能处理多少个请求，多少容量的请求
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-05-22
  * @since 1.0.0
  */

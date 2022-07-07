@@ -14,7 +14,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 /**
  * MultiMapsTest
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-05-30
  * @since 1.0.0
  */

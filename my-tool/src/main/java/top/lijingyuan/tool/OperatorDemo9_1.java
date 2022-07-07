@@ -3,7 +3,7 @@ package top.lijingyuan.tool;
 /**
  * 位运算应用--奇偶判断
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-12-28
  * @since 1.0.0
  */

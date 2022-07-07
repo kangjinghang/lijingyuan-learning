@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
  * <p>
  * 也可以用Guava的cacheGauge，反正都能达到cache的效果。
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-05-22
  * @since 1.0.0
  */

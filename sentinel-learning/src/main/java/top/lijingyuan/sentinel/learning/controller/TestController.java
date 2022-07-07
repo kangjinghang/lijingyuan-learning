@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * TestController
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-11-22
  * @since 1.0.0
  */

@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
  * <p>
  * 与{@link Meter} 正好相反，{@link Timer} 代表一个事件消耗多少时间， {@link Meter}是单位时间内有多少事件发生。
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-05-22
  * @since 1.0.0
  */

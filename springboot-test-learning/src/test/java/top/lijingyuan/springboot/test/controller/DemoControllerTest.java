@@ -19,7 +19,7 @@ import javax.annotation.Resource;
  * <p>
  * 它还为不同的webEnvironment模式提供支持，并在定义的或随机的端口上侦听正在运行的Web服务器。 它还注册了TestRestTemplate和/或WebTestClient bean，用于Web测试。
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2022-06-25
  * @since 1.0.0
  */

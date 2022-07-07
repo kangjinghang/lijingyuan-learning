@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * ZkClientDemo
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-10-11
  * @since 1.0.0
  */

@@ -17,7 +17,7 @@ import static io.netty.handler.codec.http.HttpResponseStatus.OK;
 /**
  * HttpHelloWorldServerHandler
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-09-01
  * @since 1.0.0
  */

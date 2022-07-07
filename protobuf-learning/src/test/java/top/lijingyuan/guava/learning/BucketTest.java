@@ -9,7 +9,7 @@ import java.util.stream.IntStream;
 /**
  * BucketTest
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-05-16
  * @since 1.0.0
  */

@@ -8,7 +8,7 @@ import java.util.Arrays;
 /**
  * MyClassLoader
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2022-01-25
  * @since 1.0.0
  */
@@ -17,7 +17,7 @@ public class MyClassLoader extends ClassLoader {
     private String name;
 
     public MyClassLoader(String name, ClassLoader parent) {
-        super(name, parent);
+//        super(name, parent);
         this.name = name;
     }
 

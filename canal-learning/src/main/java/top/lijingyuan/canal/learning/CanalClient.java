@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * client for canal
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2022-05-02
  * @since 1.0.0
  */

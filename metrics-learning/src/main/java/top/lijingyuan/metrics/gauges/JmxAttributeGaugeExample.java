@@ -14,7 +14,7 @@ import static com.codahale.metrics.MetricRegistry.name;
  * <p>
  * 暴露原来只能通过jconsole才能看到的jmx bean 的信息
  *
- * @author <a href="kangjinghang@xueqiu.com">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-05-22
  * @since 1.0.0
  */
