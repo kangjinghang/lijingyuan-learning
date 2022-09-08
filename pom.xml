@@ -31,6 +31,8 @@
         <module>sharding-jdbc-learning</module>
         <module>lucene-learning</module>
         <module>springboot-test-learning</module>
+        <module>dubbo-learning</module>
+        <module>dubbo-learning-interface</module>
     </modules>
 
     <properties>
