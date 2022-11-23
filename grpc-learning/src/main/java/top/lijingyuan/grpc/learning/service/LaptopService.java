@@ -10,6 +10,7 @@ import top.lijingyuan.grpc.learning.pb.*;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.util.UUID;
+import java.util.concurrent.TimeUnit;
 
 /**
  * LaptopService
@@ -67,12 +68,12 @@ public class LaptopService extends LaptopServiceGrpc.LaptopServiceImplBase {
             }
         }
 
-//        try {
-//            // 休眠6秒，配合客户端的 deadline 为5秒的配置
-//            TimeUnit.SECONDS.sleep(6);
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        }
+        try {
+            // 休眠6秒，配合客户端的 deadline 为5秒的配置
+            TimeUnit.SECONDS.sleep(6);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
 
         // 为了避免客户端因为deadline已经失败，但是服务端仍然继续往下运行，正常创建 laptop 的问题，需要加上以下代码
         // 经过大量处理后，我们需要检查当前上下文状态

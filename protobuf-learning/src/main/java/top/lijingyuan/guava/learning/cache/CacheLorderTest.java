@@ -5,6 +5,7 @@ import com.google.common.cache.*;
 import com.google.common.util.concurrent.Futures;
 import com.google.common.util.concurrent.ListenableFuture;
 
+import java.time.LocalDateTime;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
@@ -102,28 +103,36 @@ public class CacheLorderTest {
                 .maximumSize(10)
                 .expireAfterWrite(10, TimeUnit.SECONDS)
                 .refreshAfterWrite(2,TimeUnit.SECONDS)
+                .recordStats()
                 .build(new CacheLoader<String, Employee>() {
                     @Override
                     public Employee load(String key) throws Exception {
-                        System.out.println("load...");
+                        System.out.println(LocalDateTime.now() + " load...");
                         return new Employee(key, key, key);
                     }
 
                     @Override
                     public ListenableFuture<Employee> reload(String key, Employee oldValue) throws Exception {
-                        System.out.println("reload...");
+                        System.out.println(LocalDateTime.now() + " reload...");
                         return Futures.immediateFuture(new Employee("jj","Kk","ll"));
                     }
                 });
         Employee employee = cache.get("kang");
+        cache.asMap().put("kang",new Employee("","",""));
         System.out.println(employee);
+        CacheStats stats = cache.stats();
+        System.out.println("stats = " + stats);
         try {
             TimeUnit.SECONDS.sleep(13);
+//            TimeUnit.SECONDS.sleep(7);
 
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+        System.out.println(LocalDateTime.now() + " get again");
         System.out.println(cache.get("kang"));
+        stats = cache.stats();
+        System.out.println("stats = " + stats);
     }
 
     private static CacheLoader<String, Employee> createCacheLoader() {
