@@ -1,4 +1,4 @@
-package top.lijingyuan.hadoop.learning;
+package top.lijingyuan.hadoop.learning.dfs;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.*;
@@ -15,7 +15,7 @@ import java.util.Arrays;
 /**
  * Hdfs Client
  * <p>hdfs web: http://hadoop6:9870/
- * <p>yarn web: http://hadoop7:19888/
+ * <p>yarn web: http://hadoop7:8088/cluster
  * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2022-11-23
  * @since 1.0.0
